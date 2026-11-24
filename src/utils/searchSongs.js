@@ -4,22 +4,28 @@ import { normalizeText, generateNameVariants } from './normalizeText.js';
  * Precomputes search index for a song across all searchable fields.
  */
 export function buildSongSearchIndex(song) {
-  const titleNorm = normalizeText(song.title);
-  const genreNorm = normalizeText(song.genre);
+  const titleNoApos = normalizeText(song.title, true);
+  const titleWithApos = normalizeText(song.title, false);
+  const titleFull = `${titleNoApos} ${titleWithApos}`;
+
+  const genreNoApos = normalizeText(song.genre, true);
+  const genreWithApos = normalizeText(song.genre, false);
+  const genreFull = `${genreNoApos} ${genreWithApos}`;
+
   const artistVariants = generateNameVariants(song.artist);
 
   const medleyTerms = (song.medley || [])
-    .map((m) => normalizeText(m))
+    .flatMap((m) => [normalizeText(m, true), normalizeText(m, false)])
     .join(' ');
 
   const artistIndex = artistVariants.join(' ');
-  const titleIndex = `${titleNorm} ${medleyTerms}`.trim();
+  const titleIndex = `${titleFull} ${medleyTerms}`.trim();
 
   return {
-    all: `${titleNorm} ${artistIndex} ${genreNorm} ${medleyTerms}`.trim(),
+    all: `${titleIndex} ${artistIndex} ${genreFull}`.trim(),
     title: titleIndex,
     artist: artistIndex,
-    genre: genreNorm
+    genre: genreFull
   };
 }
 
