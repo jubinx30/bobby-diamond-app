@@ -1,6 +1,6 @@
 import React from 'react'
 import { Calendar, Music, Phone, Mail, Play, Star, ChevronRight } from 'lucide-react'
-import { REPERTOIRE_CATEGORIES } from '../data/content'
+import { REPERTOIRE_CATEGORIES, SONGS_CATALOG } from '../data/content'
 
 export default function HomeView({ onNavigate, onSelectGenre }) {
   return (
@@ -95,7 +95,7 @@ export default function HomeView({ onNavigate, onSelectGenre }) {
             onClick={() => onNavigate('songs')}
             className="text-xs font-bold text-amber-800 hover:text-amber-950 flex items-center gap-0.5 cursor-pointer"
           >
-            <span>View All 35+ Hits</span>
+            <span>View All {SONGS_CATALOG.length.toLocaleString()} Songs</span>
             <span>→</span>
           </button>
         </div>

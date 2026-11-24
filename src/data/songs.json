@@ -1,0 +1,7735 @@
+[
+  {
+    "id": 1,
+    "artist": "? & The Mysterians",
+    "title": "96 Tears",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 2,
+    "artist": "Sherman, Bobby",
+    "title": "Julie Julie Do U Luv Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 3,
+    "artist": "A Taste Of Honey",
+    "title": "Sukiyaki (Ballad)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 4,
+    "artist": "Abba",
+    "title": "Dancin Queen",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 5,
+    "artist": "Ace",
+    "title": "How Long",
+    "genre": "70's Music"
+  },
+  {
+    "id": 6,
+    "artist": "Adams, Bryan",
+    "title": "Summer Of 69",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 7,
+    "artist": "AdLibs, The",
+    "title": "Boy From New York City",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 8,
+    "artist": "Aerosmith",
+    "title": "Come Together",
+    "genre": "70's Music"
+  },
+  {
+    "id": 9,
+    "artist": "Aerosmith",
+    "title": "Sweet Emotion",
+    "genre": "70's Music"
+  },
+  {
+    "id": 10,
+    "artist": "AI",
+    "title": "Beat It",
+    "genre": "Country"
+  },
+  {
+    "id": 11,
+    "artist": "Albert, Herb",
+    "title": "This Guy's In Love With You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 12,
+    "artist": "Aldean, Jason",
+    "title": "Night Train",
+    "genre": "Country"
+  },
+  {
+    "id": 13,
+    "artist": "Aldean, Jason",
+    "title": "She's Country",
+    "genre": "Country"
+  },
+  {
+    "id": 14,
+    "artist": "Aldean, Jason",
+    "title": "Small Town",
+    "genre": "Country"
+  },
+  {
+    "id": 15,
+    "artist": "Alive & Kickin'",
+    "title": "Tighter & Tighter",
+    "genre": "70's Music"
+  },
+  {
+    "id": 16,
+    "artist": "Allman Brothers",
+    "title": "Blue Sky",
+    "genre": "70's Music"
+  },
+  {
+    "id": 17,
+    "artist": "Allman Brothers",
+    "title": "China Grove",
+    "genre": "70's Music"
+  },
+  {
+    "id": 18,
+    "artist": "Allman Brothers",
+    "title": "Listen To The Music",
+    "genre": "70's Music"
+  },
+  {
+    "id": 19,
+    "artist": "Allman Brothers",
+    "title": "Midnight Rider",
+    "genre": "Blues"
+  },
+  {
+    "id": 20,
+    "artist": "Allman Brothers",
+    "title": "One Way Out",
+    "genre": "70's Music"
+  },
+  {
+    "id": 21,
+    "artist": "Allman Brothers",
+    "title": "Stormy Monday",
+    "genre": "Blues"
+  },
+  {
+    "id": 22,
+    "artist": "America",
+    "title": "A Horse With No Name",
+    "genre": "70's Music"
+  },
+  {
+    "id": 23,
+    "artist": "America",
+    "title": "Sister Golden Hair",
+    "genre": "70's Music"
+  },
+  {
+    "id": 24,
+    "artist": "American Breed, The",
+    "title": "Bend Me Shape Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 25,
+    "artist": "Animals, The",
+    "title": "Don't Let Me Be Misunderstood",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 26,
+    "artist": "Animals, The",
+    "title": "We Gotta Get Outta This Place",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 27,
+    "artist": "Anka, Paul",
+    "title": "Put Your Head On My Shoulder",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 28,
+    "artist": "Archie Bell & The Drells",
+    "title": "Tighten Up",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 29,
+    "artist": "Archies, The",
+    "title": "Sugar Sugar",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 30,
+    "artist": "Associations, The",
+    "title": "Along Comes Mary",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 31,
+    "artist": "Astley, Rick",
+    "title": "Never Gonna Give You Up",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 32,
+    "artist": "Astley, Rick",
+    "title": "Together Forever",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 33,
+    "artist": "Avalon, Frankie",
+    "title": "Venus",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 34,
+    "artist": "Average White Band",
+    "title": "Cut The New Cake",
+    "genre": "70's Music"
+  },
+  {
+    "id": 35,
+    "artist": "Average White Band",
+    "title": "Pick Up The Pieces",
+    "genre": "70's Music"
+  },
+  {
+    "id": 36,
+    "artist": "Average White Band",
+    "title": "Work To Do",
+    "genre": "70's Music"
+  },
+  {
+    "id": 37,
+    "artist": "B-52's, The",
+    "title": "Love Shack",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 38,
+    "artist": "B.B. King",
+    "title": "Thrill Is Gone",
+    "genre": "Blues"
+  },
+  {
+    "id": 39,
+    "artist": "Bachman Turner Overdrive",
+    "title": "Takin’ Care Of Business",
+    "genre": "70's Music"
+  },
+  {
+    "id": 40,
+    "artist": "Bachman Turner Overdrive",
+    "title": "You Ain't Seen Nothin' Yet",
+    "genre": "70's Music"
+  },
+  {
+    "id": 41,
+    "artist": "Badfinger",
+    "title": "Day After Day",
+    "genre": "70's Music"
+  },
+  {
+    "id": 42,
+    "artist": "Badfinger",
+    "title": "No Matter What You Are",
+    "genre": "Classic Rock"
+  },
+  {
+    "id": 43,
+    "artist": "Band, The",
+    "title": "The Night They Drove Ole Dixie Down",
+    "genre": "70's Music"
+  },
+  {
+    "id": 44,
+    "artist": "Band, The",
+    "title": "The Weight",
+    "genre": "70's Music"
+  },
+  {
+    "id": 45,
+    "artist": "Bare, Bobby",
+    "title": "500 Miles Away From Home",
+    "genre": "Country"
+  },
+  {
+    "id": 46,
+    "artist": "Barry, Len",
+    "title": "1-2-3 (It's Easy)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 47,
+    "artist": "Bass, Fontella",
+    "title": "Rescue Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 48,
+    "artist": "Bay City Rollers, The",
+    "title": "I Only Wanna Be With You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 49,
+    "artist": "Beach Boys, The",
+    "title": "Beach Boys Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "Fun Fun Fun",
+      "Surfin' U.S.A.",
+      "Help Me Rhonda",
+      "California Girls"
+    ]
+  },
+  {
+    "id": 50,
+    "artist": "Beach Boys, The",
+    "title": "California Girls",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 51,
+    "artist": "Beach Boys, The",
+    "title": "Don't Worry Baby",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 52,
+    "artist": "Beach Boys, The",
+    "title": "Fun Fun Fun",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 53,
+    "artist": "Beach Boys, The",
+    "title": "Help Me Rhonda",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 54,
+    "artist": "Beach Boys, The",
+    "title": "Sail On Sailor",
+    "genre": "70's Music"
+  },
+  {
+    "id": 55,
+    "artist": "Beach Boys, The",
+    "title": "Surfin' U.S.A.",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 56,
+    "artist": "Beach Boys, The",
+    "title": "Then I Kissed Her",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 57,
+    "artist": "Bear Edward",
+    "title": "Last Song",
+    "genre": "70's Music"
+  },
+  {
+    "id": 58,
+    "artist": "Beatles, The",
+    "title": "Act Naturally",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 59,
+    "artist": "Beatles, The",
+    "title": "Beatles #2 Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "I Wanna Hold Your Hand",
+      "A Hard Day's Night",
+      "She Loves You"
+    ]
+  },
+  {
+    "id": 60,
+    "artist": "Beatles, The",
+    "title": "Beatles Ballad Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "And I Love Her",
+      "That Boy",
+      "You've Got To Hide Your Love Away"
+    ]
+  },
+  {
+    "id": 61,
+    "artist": "Beatles, The",
+    "title": "Beatles Medley #1",
+    "genre": "60's Songs",
+    "medley": [
+      "Run For Your Life",
+      "You Can’t Do That",
+      "I Shoulda Known Better",
+      "I Saw Her Standing There"
+    ]
+  },
+  {
+    "id": 62,
+    "artist": "Beatles, The",
+    "title": "Beatles Medley #3",
+    "genre": "60's Songs",
+    "medley": [
+      "Love Me Do",
+      "You're Gonna Lose That Girl",
+      "Help"
+    ]
+  },
+  {
+    "id": 63,
+    "artist": "Beatles, The",
+    "title": "Beatles Medley #4 - Penny Lane Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "With A Lil Help From My Friends",
+      "Penny Lane"
+    ]
+  },
+  {
+    "id": 64,
+    "artist": "Beatles, The",
+    "title": "Day Tripper",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 65,
+    "artist": "Beatles, The",
+    "title": "Do You Wanna Know A Secret",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 66,
+    "artist": "Beatles, The",
+    "title": "Got To Get U Into My Life",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 67,
+    "artist": "Beatles, The",
+    "title": "Help",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 68,
+    "artist": "Beatles, The",
+    "title": "Here Comes The Sun",
+    "genre": "70's Music"
+  },
+  {
+    "id": 69,
+    "artist": "Beatles, The",
+    "title": "Hey Jude",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 70,
+    "artist": "Beatles, The",
+    "title": "I Saw Her Standing There",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 71,
+    "artist": "Beatles, The",
+    "title": "I Shoulda Known Better",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 72,
+    "artist": "Beatles, The",
+    "title": "I’ve Just Seen A Face",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 73,
+    "artist": "Beatles, The",
+    "title": "If I Fell",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 74,
+    "artist": "Beatles, The",
+    "title": "Love Me Do",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 75,
+    "artist": "Beatles, The",
+    "title": "Penny Lane",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 76,
+    "artist": "Beatles, The",
+    "title": "Revolution",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 77,
+    "artist": "Beatles, The",
+    "title": "This Boy",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 78,
+    "artist": "Beatles, The",
+    "title": "When I'm 64",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 79,
+    "artist": "Beatles, The",
+    "title": "With A Lil Help From My Friends",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 80,
+    "artist": "Beatles, The",
+    "title": "Word (The)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 81,
+    "artist": "Beatles, The",
+    "title": "Yesterday",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 82,
+    "artist": "Beatles, The",
+    "title": "You Wont See Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 83,
+    "artist": "Beatles, The",
+    "title": "You’re Gonna Lose That Girl",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 84,
+    "artist": "Beatles, The",
+    "title": "You’ve Got To Hide Your Love Away",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 85,
+    "artist": "Bee Gee's, The",
+    "title": "I've Just Gotta Get A Message To You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 86,
+    "artist": "Bee Gee's, The",
+    "title": "Night Fever",
+    "genre": "70's Music"
+  },
+  {
+    "id": 87,
+    "artist": "Bee Gee's, The",
+    "title": "Stayin' Alive",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 88,
+    "artist": "Bee Gee's, The",
+    "title": "To Love Somebody",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 89,
+    "artist": "Bee Gee's, The",
+    "title": "To Love Somebody",
+    "genre": "Ballads"
+  },
+  {
+    "id": 90,
+    "artist": "Bee Gee's, The",
+    "title": "You Should Be Dancin'",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 91,
+    "artist": "Bega, Lou",
+    "title": "Mambo #5",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 92,
+    "artist": "Bellamy Brothers, The",
+    "title": "Let Your Love Flow",
+    "genre": "70's Music"
+  },
+  {
+    "id": 93,
+    "artist": "Benatar, Pat",
+    "title": "Hit Me With Your Best Shot",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 94,
+    "artist": "Bennett, Tony",
+    "title": "I Wanna Be Around",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 95,
+    "artist": "Bennett, Tony",
+    "title": "Sanfrancisco (I Left My Heart In)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 96,
+    "artist": "Bennett, Tony",
+    "title": "The Good Life",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 97,
+    "artist": "Benson, George",
+    "title": "Breezin",
+    "genre": "70's Music"
+  },
+  {
+    "id": 98,
+    "artist": "Benson, George",
+    "title": "Don't Let Me Be Lonely Tonight",
+    "genre": "70's Music"
+  },
+  {
+    "id": 99,
+    "artist": "Benson, George",
+    "title": "Feel Like Makin' Love",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 100,
+    "artist": "Benson, George",
+    "title": "Gimmie The Night",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 101,
+    "artist": "Benson, George",
+    "title": "Masquerade",
+    "genre": "70's Music"
+  },
+  {
+    "id": 102,
+    "artist": "Benson, George",
+    "title": "On Broadway",
+    "genre": "70's Music"
+  },
+  {
+    "id": 103,
+    "artist": "Benson, George",
+    "title": "Turn Your Love Around",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 104,
+    "artist": "Big And Rich",
+    "title": "Save A Horse Ride A Cowboy",
+    "genre": "Country"
+  },
+  {
+    "id": 105,
+    "artist": "Big Head Todd & The Monsters",
+    "title": "Boom Boom",
+    "genre": "Blues"
+  },
+  {
+    "id": 106,
+    "artist": "Bishop, Elvin",
+    "title": "Fooled Around & Fell In Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 107,
+    "artist": "Bishop, Stephen",
+    "title": "On & On",
+    "genre": "70's Music"
+  },
+  {
+    "id": 108,
+    "artist": "Blackbyrds, The",
+    "title": "Walkin In Rhythm",
+    "genre": "70's Music"
+  },
+  {
+    "id": 109,
+    "artist": "Blood Sweat & Tears",
+    "title": "And When I Die",
+    "genre": "70's Music"
+  },
+  {
+    "id": 110,
+    "artist": "Blood Sweat & Tears",
+    "title": "Blood Sweat & Tears Medley",
+    "genre": "70's Music",
+    "medley": [
+      "Spinning Wheel",
+      "Go Down Gamblin'",
+      "And When I Die",
+      "Lucretia McEvil",
+      "You've Made Me So Very Happy"
+    ]
+  },
+  {
+    "id": 111,
+    "artist": "Blood Sweat & Tears",
+    "title": "Go Down Gamblin'",
+    "genre": "70's Music"
+  },
+  {
+    "id": 112,
+    "artist": "Blood Sweat & Tears",
+    "title": "God Bless The Child",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 113,
+    "artist": "Blood Sweat & Tears",
+    "title": "God Bless The Child",
+    "genre": "70's Music"
+  },
+  {
+    "id": 114,
+    "artist": "Blood Sweat & Tears",
+    "title": "Lucretia MacEvil",
+    "genre": "70's Music"
+  },
+  {
+    "id": 115,
+    "artist": "Blood Sweat & Tears",
+    "title": "Spinning Wheel",
+    "genre": "70's Music"
+  },
+  {
+    "id": 116,
+    "artist": "Blood Sweat & Tears",
+    "title": "You Made Me So Very Happy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 117,
+    "artist": "Blue Oyster Cult",
+    "title": "Burnin' For You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 118,
+    "artist": "Blues Beatles",
+    "title": "A Hard Day's Night",
+    "genre": "Blues"
+  },
+  {
+    "id": 119,
+    "artist": "Blues Beatles",
+    "title": "Can't Buy Me Love",
+    "genre": "Blues"
+  },
+  {
+    "id": 120,
+    "artist": "Blues Beatles",
+    "title": "Drive My Car",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 121,
+    "artist": "Blues Beatles",
+    "title": "Elenore Rigby",
+    "genre": "Blues"
+  },
+  {
+    "id": 122,
+    "artist": "Blues Beatles",
+    "title": "Oh Darling",
+    "genre": "Blues"
+  },
+  {
+    "id": 123,
+    "artist": "Blues Beatles",
+    "title": "You Can't Do That",
+    "genre": "Blues"
+  },
+  {
+    "id": 124,
+    "artist": "Blues Brothers",
+    "title": "RawHide",
+    "genre": "Country"
+  },
+  {
+    "id": 125,
+    "artist": "Blues Brothers",
+    "title": "Sweet Home Chicago",
+    "genre": "Blues"
+  },
+  {
+    "id": 126,
+    "artist": "Blues Image",
+    "title": "Ride Captain Ride",
+    "genre": "70's Music"
+  },
+  {
+    "id": 127,
+    "artist": "Blues Traveler",
+    "title": "Run-Around",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 128,
+    "artist": "Bolton, Michael",
+    "title": "(What A) Wonderful World",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 129,
+    "artist": "Bolton, Michael",
+    "title": "How Am I Supposed To Live Without You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 130,
+    "artist": "Bon Jovi",
+    "title": "Dead Or Alive (Wanted)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 131,
+    "artist": "Bon Jovi",
+    "title": "Living On A Prayer",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 132,
+    "artist": "Bon Jovi",
+    "title": "Who Says Ya Can't Go Home",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 133,
+    "artist": "Booker T & The MG's",
+    "title": "Green Onions",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 134,
+    "artist": "Bowie, David",
+    "title": "Changes",
+    "genre": "70's Music"
+  },
+  {
+    "id": 135,
+    "artist": "Bowie, David",
+    "title": "Let's Dance",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 136,
+    "artist": "Bowie, David",
+    "title": "Rebel Rebel",
+    "genre": "70's Music"
+  },
+  {
+    "id": 137,
+    "artist": "Boxtops, The",
+    "title": "Cry Like A Baby",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 138,
+    "artist": "BoxTops, The",
+    "title": "The Letter",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 139,
+    "artist": "Boz Scaggs",
+    "title": "Boz Scaggs Medley",
+    "genre": "70's Music",
+    "medley": [
+      "Lowdown",
+      "What Can I Say"
+    ]
+  },
+  {
+    "id": 140,
+    "artist": "Boz Scaggs",
+    "title": "It's Over It's Over",
+    "genre": "70's Music"
+  },
+  {
+    "id": 141,
+    "artist": "Boz Scaggs",
+    "title": "Lowdown",
+    "genre": "70's Music"
+  },
+  {
+    "id": 142,
+    "artist": "Boz Scaggs",
+    "title": "What Can I Say",
+    "genre": "70's Music"
+  },
+  {
+    "id": 143,
+    "artist": "Branigan, Laura",
+    "title": "Gloria",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 144,
+    "artist": "Bread",
+    "title": "Everything I Own",
+    "genre": "70's Music"
+  },
+  {
+    "id": 145,
+    "artist": "Bridges, Alicia",
+    "title": "I Love The NightLife",
+    "genre": "70's Music"
+  },
+  {
+    "id": 146,
+    "artist": "Brooklyn Bridge, The",
+    "title": "The Worst That Could Happen",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 147,
+    "artist": "Brooks & Dunn",
+    "title": "My Maria",
+    "genre": "Country"
+  },
+  {
+    "id": 148,
+    "artist": "Brooks, Garth",
+    "title": "Friends In Low Places",
+    "genre": "Country"
+  },
+  {
+    "id": 149,
+    "artist": "Brown, Bobby",
+    "title": "Every Little Step",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 150,
+    "artist": "Brown, Bobby",
+    "title": "My Prerogative",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 151,
+    "artist": "Brown, James",
+    "title": "I Feel Good",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 152,
+    "artist": "Brown, James",
+    "title": "Papa's Got A Brand New Bag",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 153,
+    "artist": "Browne, Jackson",
+    "title": "Doctor My Eyes",
+    "genre": "70's Music"
+  },
+  {
+    "id": 154,
+    "artist": "Browne, Jackson",
+    "title": "Somebody's Baby",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 155,
+    "artist": "Browne, Jackson",
+    "title": "Stay",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 156,
+    "artist": "Brownsville Station",
+    "title": "Smokin' In The Boys Room",
+    "genre": "70's Music"
+  },
+  {
+    "id": 157,
+    "artist": "Bryan, Luke",
+    "title": "Country Girl Shake",
+    "genre": "Country"
+  },
+  {
+    "id": 158,
+    "artist": "Bryan, Luke",
+    "title": "Kiss Tomorrow Goodbye",
+    "genre": "Country"
+  },
+  {
+    "id": 159,
+    "artist": "Bryan, Luke",
+    "title": "That's My Kinda Night",
+    "genre": "Country"
+  },
+  {
+    "id": 160,
+    "artist": "Buckinghams, The",
+    "title": "Buckinghams Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "Mercy",
+      "Don't You Care"
+    ]
+  },
+  {
+    "id": 161,
+    "artist": "Buckinghams, The",
+    "title": "Don't You Care",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 162,
+    "artist": "Buckinghams, The",
+    "title": "Hey Baby (They're Playin' Our Song)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 163,
+    "artist": "Buckinghams, The",
+    "title": "Kind Of A Drag",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 164,
+    "artist": "Buckinghams, The",
+    "title": "Mercy",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 165,
+    "artist": "Buckinghams, The",
+    "title": "Susan",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 166,
+    "artist": "Buffalo Springfield",
+    "title": "For What Its Worth",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 167,
+    "artist": "Buffet, Jimmy",
+    "title": "Margaritaville",
+    "genre": "70's Music"
+  },
+  {
+    "id": 168,
+    "artist": "Burke, Solomon",
+    "title": "Cry To Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 169,
+    "artist": "Byrds, The",
+    "title": "Mr Tambourine Man",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 170,
+    "artist": "Byrds, The",
+    "title": "Turn Turn Turn",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 171,
+    "artist": "Cafferty, James & The Beaver Brown Band",
+    "title": "Dark Side (On The)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 172,
+    "artist": "Campbell, Glen",
+    "title": "Dont Pull Your Love / If It Don't Work Out",
+    "genre": "Ballads",
+    "medley": [
+      "Dont Pull Your Love",
+      "If It Don't Work Out"
+    ]
+  },
+  {
+    "id": 173,
+    "artist": "Campbell, Glen",
+    "title": "Rhinestone Cowboy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 174,
+    "artist": "Campbell, Glen",
+    "title": "Southern Nights",
+    "genre": "70's Music"
+  },
+  {
+    "id": 175,
+    "artist": "Campbell, Glen",
+    "title": "Try A Little Kindness",
+    "genre": "Country"
+  },
+  {
+    "id": 176,
+    "artist": "Campbell, Glen",
+    "title": "Witchita Lineman (Re-Make)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 177,
+    "artist": "Canned Heat",
+    "title": "Let's Work Together",
+    "genre": "70's Music"
+  },
+  {
+    "id": 178,
+    "artist": "Captain & Tennille, The",
+    "title": "Love Will Keep Us Together",
+    "genre": "70's Music"
+  },
+  {
+    "id": 179,
+    "artist": "Cara, Irene",
+    "title": "FlashDance (What A Feelin')",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 180,
+    "artist": "Carbone, Anthony",
+    "title": "Carbone, Anthony",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 181,
+    "artist": "Carpenters, The",
+    "title": "Yesterday Once More",
+    "genre": "70's Music"
+  },
+  {
+    "id": 182,
+    "artist": "Cars, The",
+    "title": "Drive",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 183,
+    "artist": "Cars, The",
+    "title": "You Might Think I'm Crazy",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 184,
+    "artist": "Carter, Clarence",
+    "title": "Slip Away",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 185,
+    "artist": "Carter, Mel",
+    "title": "Hold Me, Thrill Me, Kiss Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 186,
+    "artist": "Cascades, The",
+    "title": "Rhythm Of The Rain",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 187,
+    "artist": "Cash, Johnny",
+    "title": "Ring Of Fire",
+    "genre": "Country"
+  },
+  {
+    "id": 188,
+    "artist": "Casino's, The",
+    "title": "Then You Can Tell Me Goodbye",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 189,
+    "artist": "Cass, Mama",
+    "title": "Make Your Own Kinda Music",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 190,
+    "artist": "Cassidy, David",
+    "title": "I Think I Love You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 191,
+    "artist": "Catrina & The Waves",
+    "title": "Walkin On Sunshine",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 192,
+    "artist": "Cauldwell, Bobby",
+    "title": "What You Wont Do For Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 193,
+    "artist": "CCarpenter, MacKenzie",
+    "title": "Country Girls (Just Wanna Have Fun)",
+    "genre": "Country"
+  },
+  {
+    "id": 194,
+    "artist": "Chairman Of The Board",
+    "title": "Give Me Just A Lilttle More Time",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 195,
+    "artist": "Chaka Khan",
+    "title": "Ain't Nobody (Loves Me Better)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 196,
+    "artist": "Champs, The",
+    "title": "Tequila",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 197,
+    "artist": "Chandler, Gene",
+    "title": "Groovy Situation",
+    "genre": "70's Music"
+  },
+  {
+    "id": 198,
+    "artist": "Channel, Bruce",
+    "title": "Hey Baby",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 199,
+    "artist": "Chapin, Harry",
+    "title": "Cat's In The Cradle",
+    "genre": "70's Music"
+  },
+  {
+    "id": 200,
+    "artist": "Chapin, Harry",
+    "title": "Taxi",
+    "genre": "70's Music"
+  },
+  {
+    "id": 201,
+    "artist": "Chapman, Tracy",
+    "title": "Give Me One Reason",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 202,
+    "artist": "Charles, Jimmy",
+    "title": "A Million To One",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 203,
+    "artist": "Charles, Ray",
+    "title": "America The Beautiful",
+    "genre": "Patriotic"
+  },
+  {
+    "id": 204,
+    "artist": "Charles, Ray",
+    "title": "Hit The Road Jack",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 205,
+    "artist": "Charles, Ray",
+    "title": "Imagine",
+    "genre": "Blues"
+  },
+  {
+    "id": 206,
+    "artist": "Cher",
+    "title": "Dark Lady",
+    "genre": "70's Music"
+  },
+  {
+    "id": 207,
+    "artist": "Cher",
+    "title": "Gypsies Tramps & Thieves",
+    "genre": "70's Music"
+  },
+  {
+    "id": 208,
+    "artist": "Cher",
+    "title": "If I Could Turn Back Time",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 209,
+    "artist": "Cher",
+    "title": "Shoop Shoop Song",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 210,
+    "artist": "Cher",
+    "title": "The Way Of Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 211,
+    "artist": "Chesney, Kenny",
+    "title": "American Kids",
+    "genre": "Country"
+  },
+  {
+    "id": 212,
+    "artist": "Chesney, Kenny",
+    "title": "Beer In Mexico",
+    "genre": "Country"
+  },
+  {
+    "id": 213,
+    "artist": "Chesney, Kenny",
+    "title": "It's 5 Oclock Somewhere",
+    "genre": "Country"
+  },
+  {
+    "id": 214,
+    "artist": "Chesney, Kenny",
+    "title": "No Shoes No Shirt No Problems",
+    "genre": "Country"
+  },
+  {
+    "id": 215,
+    "artist": "Chesney, Kenny",
+    "title": "SummerTime",
+    "genre": "Country"
+  },
+  {
+    "id": 216,
+    "artist": "Chesney, Kenny / Tim Mcgraw",
+    "title": "Feel Like A Rock Star",
+    "genre": "Country"
+  },
+  {
+    "id": 217,
+    "artist": "Chi Coletrain",
+    "title": "Thunder & Lightning",
+    "genre": "70's Music"
+  },
+  {
+    "id": 218,
+    "artist": "Chi-Lites, The",
+    "title": "Oh Girl",
+    "genre": "70's Music"
+  },
+  {
+    "id": 219,
+    "artist": "Chicago",
+    "title": "25 Or 6 To 4",
+    "genre": "70's Music"
+  },
+  {
+    "id": 220,
+    "artist": "Chicago",
+    "title": "Chicago Medley # 1",
+    "genre": "70's Music",
+    "medley": [
+      "Saturday In The Park",
+      "Does Anybody Really Know What Time It Is"
+    ]
+  },
+  {
+    "id": 221,
+    "artist": "Chicago",
+    "title": "Chicago Medley # 3",
+    "genre": "70's Music",
+    "medley": [
+      "Make Me Smile",
+      "25 Or 6 To 4"
+    ]
+  },
+  {
+    "id": 222,
+    "artist": "Chicago",
+    "title": "Chicago Medley #2",
+    "genre": "70's Music",
+    "medley": [
+      "Old Days",
+      "Just You & Me",
+      "Feelin' Stronger Everyday"
+    ]
+  },
+  {
+    "id": 223,
+    "artist": "Chicago",
+    "title": "Does Anybody Really Know What Time It Is",
+    "genre": "70's Music"
+  },
+  {
+    "id": 224,
+    "artist": "Chicago",
+    "title": "Feelin' Stronger Everyday",
+    "genre": "70's Music"
+  },
+  {
+    "id": 225,
+    "artist": "Chicago",
+    "title": "Just You & Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 226,
+    "artist": "Chicago",
+    "title": "Make Me Smile",
+    "genre": "70's Music"
+  },
+  {
+    "id": 227,
+    "artist": "Chicago",
+    "title": "Old Days",
+    "genre": "70's Music"
+  },
+  {
+    "id": 228,
+    "artist": "Chicago",
+    "title": "Saturday In The Park",
+    "genre": "70's Music"
+  },
+  {
+    "id": 229,
+    "artist": "Chiffons, The",
+    "title": "One Fine Day",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 230,
+    "artist": "Chuck Berry",
+    "title": "You Never Can Tell",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 231,
+    "artist": "Clapton, Eric",
+    "title": "I Shot The Sherrif",
+    "genre": "70's Music"
+  },
+  {
+    "id": 232,
+    "artist": "Clapton, Eric",
+    "title": "Knock On Wood",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 233,
+    "artist": "Clapton, Eric",
+    "title": "Lay Down Sally",
+    "genre": "70's Music"
+  },
+  {
+    "id": 234,
+    "artist": "Clapton, Eric",
+    "title": "Layla",
+    "genre": "70's Music"
+  },
+  {
+    "id": 235,
+    "artist": "Clapton, Eric",
+    "title": "Let It Rain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 236,
+    "artist": "Clapton, Eric",
+    "title": "White Room",
+    "genre": "70's Music"
+  },
+  {
+    "id": 237,
+    "artist": "Clapton, Eric",
+    "title": "Wonderful Tonight",
+    "genre": "Ballads"
+  },
+  {
+    "id": 238,
+    "artist": "Clark, Petula",
+    "title": "I Couldnt Live Without Your Luv",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 239,
+    "artist": "Clark, Petula",
+    "title": "Sign Of The Times",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 240,
+    "artist": "Classics Four, The",
+    "title": "Everyday With You Girl",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 241,
+    "artist": "Classics Four, The",
+    "title": "Spooky",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 242,
+    "artist": "Classics Four, The",
+    "title": "Stormy",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 243,
+    "artist": "Classics Four, The",
+    "title": "Traces",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 244,
+    "artist": "Cline, Patsy",
+    "title": "Walkin After Midnight",
+    "genre": "Country"
+  },
+  {
+    "id": 245,
+    "artist": "Clovers, The",
+    "title": "Love Potion #9",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 246,
+    "artist": "Club Nouveau",
+    "title": "Lean On Me",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 247,
+    "artist": "Cochran, Eddie",
+    "title": "Summertime Blues",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 248,
+    "artist": "Cocker, Joe",
+    "title": "Chain Of Fools",
+    "genre": "70's Music"
+  },
+  {
+    "id": 249,
+    "artist": "Cocker, Joe",
+    "title": "Feelin' Alright",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 250,
+    "artist": "Cocker, Joe",
+    "title": "Unchain My Heart",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 251,
+    "artist": "Collins, Phil",
+    "title": "Another Day In Paradise",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 252,
+    "artist": "Collins, Phil",
+    "title": "Sussudio",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 253,
+    "artist": "Collins, Phil",
+    "title": "Two Hearts",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 254,
+    "artist": "Commodores, The",
+    "title": "Lady (You Bring Me Up)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 255,
+    "artist": "Cooke, Sam",
+    "title": "Bring It On Home To Me",
+    "genre": "Blues"
+  },
+  {
+    "id": 256,
+    "artist": "Cooke, Sam",
+    "title": "Chain Gang",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 257,
+    "artist": "Cooke, Sam",
+    "title": "Good Times",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 258,
+    "artist": "Cooke, Sam",
+    "title": "Havin' A Party",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 259,
+    "artist": "Coolidge, Rita",
+    "title": "The Way You Do The Things You Do",
+    "genre": "Classic Rock"
+  },
+  {
+    "id": 260,
+    "artist": "Corbin, Easton",
+    "title": "All Over The Road",
+    "genre": "Country"
+  },
+  {
+    "id": 261,
+    "artist": "Cornelius Bros. & Sister Rose",
+    "title": "Too Late To Turn Back Now",
+    "genre": "70's Music"
+  },
+  {
+    "id": 262,
+    "artist": "Costello, Elvis",
+    "title": "I'll Never Fall In Love Again",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 263,
+    "artist": "Cowsills, The",
+    "title": "The Flower Girl (I Love)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 264,
+    "artist": "Crawford, Randy",
+    "title": "Street Life",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 265,
+    "artist": "Crazy Elephant",
+    "title": "Gimmie Good Lovin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 266,
+    "artist": "Cream",
+    "title": "White Room",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 267,
+    "artist": "Creedance Clairwater Revival",
+    "title": "Bad Moon Risin",
+    "genre": "70's Music"
+  },
+  {
+    "id": 268,
+    "artist": "Creedance Clairwater Revival",
+    "title": "Born On The Bayou",
+    "genre": "70's Music"
+  },
+  {
+    "id": 269,
+    "artist": "Creedance Clairwater Revival",
+    "title": "Down On The Corner",
+    "genre": "70's Music"
+  },
+  {
+    "id": 270,
+    "artist": "Creedance Clairwater Revival",
+    "title": "Have You Ever Seen The Rain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 271,
+    "artist": "Creedance Clairwater Revival",
+    "title": "Suzie Q",
+    "genre": "70's Music"
+  },
+  {
+    "id": 272,
+    "artist": "Creedance Clearwater Revival",
+    "title": "Green River",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 273,
+    "artist": "Creedance Clearwater Revival",
+    "title": "Travelin' Band",
+    "genre": "70's Music"
+  },
+  {
+    "id": 274,
+    "artist": "Creedance Clearwater Revival",
+    "title": "Up Around The Bend",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 275,
+    "artist": "Creedance Clearwater Revival",
+    "title": "Who'll Stop The Rain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 276,
+    "artist": "Croce, Jim",
+    "title": "Operator",
+    "genre": "70's Music"
+  },
+  {
+    "id": 277,
+    "artist": "Crosby, Stills, Nash, & Young",
+    "title": "Love The One Your With",
+    "genre": "70's Music"
+  },
+  {
+    "id": 278,
+    "artist": "Cross, Christopher",
+    "title": "Never Be The Same",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 279,
+    "artist": "Cross, Christopher",
+    "title": "Ride Like The Wind",
+    "genre": "70's Music"
+  },
+  {
+    "id": 280,
+    "artist": "Crow, Sheryll",
+    "title": "Sweet Child O' Mine",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 281,
+    "artist": "Crystal, Gale",
+    "title": "Don't It Make My Brown Eyes Blue",
+    "genre": "Country"
+  },
+  {
+    "id": 282,
+    "artist": "Crystals, The",
+    "title": "Da Doo Ron Ron",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 283,
+    "artist": "Culture Club",
+    "title": "Karma Chameleon",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 284,
+    "artist": "Culture Club",
+    "title": "Time",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 285,
+    "artist": "Cyrcle, The",
+    "title": "Red Rubber Ball",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 286,
+    "artist": "Cyrus, Bill Ray",
+    "title": "Achey Breaky Heart",
+    "genre": "Country"
+  },
+  {
+    "id": 287,
+    "artist": "Cyrus, Miley",
+    "title": "Shook Me All Night Long",
+    "genre": "Country"
+  },
+  {
+    "id": 288,
+    "artist": "Darin, Bobby",
+    "title": "Beyond The Sea",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 289,
+    "artist": "Darin, Bobby",
+    "title": "Dream Lover",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 290,
+    "artist": "Darin, Bobby",
+    "title": "I'll Be There",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 291,
+    "artist": "Darin, Bobby",
+    "title": "Mack The Knife",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 292,
+    "artist": "Dave Clark Five, The",
+    "title": "Because",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 293,
+    "artist": "Davis, Billy & Marilyn McKoo",
+    "title": "You Don't Have To Be A Star",
+    "genre": "70's Music"
+  },
+  {
+    "id": 294,
+    "artist": "Davis, Tyrone",
+    "title": "If I Turn Back The Hands Of Time",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 295,
+    "artist": "De Burgh, Chris",
+    "title": "Lady In Red",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 296,
+    "artist": "Deep Purple",
+    "title": "Smoke On The Water",
+    "genre": "70's Music"
+  },
+  {
+    "id": 297,
+    "artist": "Del Shannon",
+    "title": "Runaway",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 298,
+    "artist": "Del-Vikings, The",
+    "title": "Come Go With Me",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 299,
+    "artist": "Delfonics, The",
+    "title": "Didn’t I Blow Your Mind This Time",
+    "genre": "70's Music"
+  },
+  {
+    "id": 300,
+    "artist": "Delfonics, The",
+    "title": "La La Means I Love You",
+    "genre": "Motown"
+  },
+  {
+    "id": 301,
+    "artist": "Dells, The",
+    "title": "Oh What A Night",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 302,
+    "artist": "Denise Williams / Johnny Mathis",
+    "title": "It's Gonna Take A Miracle",
+    "genre": "70's Music"
+  },
+  {
+    "id": 303,
+    "artist": "Denver, John",
+    "title": "Country Roads",
+    "genre": "70's Music"
+  },
+  {
+    "id": 304,
+    "artist": "Denver, John",
+    "title": "Rocky Mountain High",
+    "genre": "70's Music"
+  },
+  {
+    "id": 305,
+    "artist": "Denver, John",
+    "title": "Thank God I'm A Country Boy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 306,
+    "artist": "Derringer, Rick",
+    "title": "Rock N' Roll Hoochie Koo",
+    "genre": "70's Music"
+  },
+  {
+    "id": 307,
+    "artist": "DeVaughn, William",
+    "title": "Be Thankful For What You Got",
+    "genre": "70's Music"
+  },
+  {
+    "id": 308,
+    "artist": "Devo",
+    "title": "Whip It",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 309,
+    "artist": "Diamond, Neil",
+    "title": "America (Comin To)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 310,
+    "artist": "Diamond, Neil",
+    "title": "Cherry Cherry",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 311,
+    "artist": "Diamond, Neil",
+    "title": "Cracklin Rosie",
+    "genre": "70's Music"
+  },
+  {
+    "id": 312,
+    "artist": "Diamond, Neil",
+    "title": "Forever In BlueJeans",
+    "genre": "70's Music"
+  },
+  {
+    "id": 313,
+    "artist": "Diamond, Neil",
+    "title": "September Morn",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 314,
+    "artist": "Diamond, Neil",
+    "title": "Solitary Man",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 315,
+    "artist": "Diamond, Neil",
+    "title": "Song Sung Blue",
+    "genre": "70's Music"
+  },
+  {
+    "id": 316,
+    "artist": "Diamond, Neil",
+    "title": "Sweet Caroline",
+    "genre": "70's Music"
+  },
+  {
+    "id": 317,
+    "artist": "Diamond, Neil",
+    "title": "Thank The Lord For The Nightime",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 318,
+    "artist": "Diamond, Neil",
+    "title": "Yesterday's Songs",
+    "genre": "70's Music"
+  },
+  {
+    "id": 319,
+    "artist": "Diamond,Neil",
+    "title": "Neil Diamond Medley",
+    "genre": "70's Music",
+    "medley": [
+      "Solitary Man",
+      "Brother Love's Travelin Salvation Show",
+      "Shilo",
+      "Sweet Caroline",
+      "Cherry Cherry",
+      "Sooliamon",
+      "Holly Holy"
+    ]
+  },
+  {
+    "id": 320,
+    "artist": "Diamond,Neil",
+    "title": "Solitary Man Medley",
+    "genre": "70's Music",
+    "medley": [
+      "Solilitary Man",
+      "Cracklin' Rosie",
+      "Thank The Lord For The Night Time"
+    ]
+  },
+  {
+    "id": 321,
+    "artist": "Dion",
+    "title": "Abraham Martin & John",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 322,
+    "artist": "Dion",
+    "title": "Runaround Sue",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 323,
+    "artist": "Dion",
+    "title": "The Wanderer",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 324,
+    "artist": "Dion, Celine",
+    "title": "God Bless America",
+    "genre": "Patriotic"
+  },
+  {
+    "id": 325,
+    "artist": "Dire Straits",
+    "title": "Money For Nothing",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 326,
+    "artist": "Dire Straits",
+    "title": "Walk Of Life",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 327,
+    "artist": "Dixiecups, The",
+    "title": "Chapel Of Love",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 328,
+    "artist": "Domino, Fats",
+    "title": "Blueberry Hill",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 329,
+    "artist": "Don & Juan",
+    "title": "What's Your Name",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 330,
+    "artist": "Donovan",
+    "title": "Sunshine Superman",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 331,
+    "artist": "Doobie Brothers, The",
+    "title": "China Grove",
+    "genre": "70's Music"
+  },
+  {
+    "id": 332,
+    "artist": "Doobie Brothers, The",
+    "title": "Doobie Brothers Medley",
+    "genre": "70's Music",
+    "medley": [
+      "Long Train Runnin'",
+      "Listen To The Music",
+      "China Grove"
+    ]
+  },
+  {
+    "id": 333,
+    "artist": "Doobie Brothers, The",
+    "title": "Listen To The Music",
+    "genre": "70's Music"
+  },
+  {
+    "id": 334,
+    "artist": "Doobie Brothers, The",
+    "title": "Long Train Runnin'",
+    "genre": "70's Music"
+  },
+  {
+    "id": 335,
+    "artist": "Doobie Brothers, The",
+    "title": "Takin It To The Streets",
+    "genre": "70's Music"
+  },
+  {
+    "id": 336,
+    "artist": "Doors, The",
+    "title": "Hello I Love You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 337,
+    "artist": "Doors, The",
+    "title": "Love Her Madly (Don't You)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 338,
+    "artist": "Doors, The",
+    "title": "Riders On The Storm",
+    "genre": "70's Music"
+  },
+  {
+    "id": 339,
+    "artist": "Doors, The",
+    "title": "Roadhouse Blues",
+    "genre": "Blues"
+  },
+  {
+    "id": 340,
+    "artist": "Dramatics",
+    "title": "What Ya See (Is What You Get)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 341,
+    "artist": "DreamTranceAI",
+    "title": "Ob-La-Di Ob-La-Da",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 342,
+    "artist": "DreamTranceAI",
+    "title": "Oh-Bla-Di-Oh-Bla-Da",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 343,
+    "artist": "Drifters, The",
+    "title": "Boardwalk (Under The)",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 344,
+    "artist": "Drifters, The",
+    "title": "On Broadway",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 345,
+    "artist": "Drifters, The",
+    "title": "Saturday Night At The Movies",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 346,
+    "artist": "Drifters, The",
+    "title": "Save The Last Dance For Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 347,
+    "artist": "Duprees",
+    "title": "You Belong To Me",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 348,
+    "artist": "Dylan, Bob",
+    "title": "Like A Rollin’ Stone",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 349,
+    "artist": "Eagles, The",
+    "title": "Already Gone",
+    "genre": "70's Music"
+  },
+  {
+    "id": 350,
+    "artist": "Eagles, The",
+    "title": "Heartache Tonight",
+    "genre": "70's Music"
+  },
+  {
+    "id": 351,
+    "artist": "Eagles, The",
+    "title": "Hotel California",
+    "genre": "70's Music"
+  },
+  {
+    "id": 352,
+    "artist": "Eagles, The",
+    "title": "Lyin' Eyes (You Can't Hide Your)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 353,
+    "artist": "Eagles, The",
+    "title": "One Of These Nights",
+    "genre": "70's Music"
+  },
+  {
+    "id": 354,
+    "artist": "Eagles, The",
+    "title": "Peaceful Easy Feelin’",
+    "genre": "70's Music"
+  },
+  {
+    "id": 355,
+    "artist": "Eagles, The",
+    "title": "Ramblin Man",
+    "genre": "70's Music"
+  },
+  {
+    "id": 356,
+    "artist": "Eagles, The",
+    "title": "Take It Easy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 357,
+    "artist": "Eagles, The",
+    "title": "Witchy Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 358,
+    "artist": "Earth, Wind & Fire",
+    "title": "Lets Groove Tonight",
+    "genre": "70's Music"
+  },
+  {
+    "id": 359,
+    "artist": "Earth, Wind, & Fire",
+    "title": "September",
+    "genre": "70's Music"
+  },
+  {
+    "id": 360,
+    "artist": "Easton, Sheena",
+    "title": "Morning Train (My Baby Takes The)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 361,
+    "artist": "Edison Lighthouse",
+    "title": "Love Grows RoseMary",
+    "genre": "70's Music"
+  },
+  {
+    "id": 362,
+    "artist": "Edwards, Tommy",
+    "title": "In The Game (But It's All)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 363,
+    "artist": "Electric Light Orchestra, The",
+    "title": "Evil Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 364,
+    "artist": "Electric Light Orchestra, The",
+    "title": "ShowDown",
+    "genre": "70's Music"
+  },
+  {
+    "id": 365,
+    "artist": "Eurythmics, The",
+    "title": "Sweet Dreams",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 366,
+    "artist": "Everly Brothers, The",
+    "title": "All I Have To Do Is Dream",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 367,
+    "artist": "Everly Brothers, The",
+    "title": "Cathys Clown",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 368,
+    "artist": "Fabulous Thunderbirds, The",
+    "title": "Tough Enough (Ain't That)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 369,
+    "artist": "Feliciano, José",
+    "title": "Light My Fire",
+    "genre": "70's Music"
+  },
+  {
+    "id": 370,
+    "artist": "Fender, Freddie",
+    "title": "Wasted Days & Nights",
+    "genre": "Ballads"
+  },
+  {
+    "id": 371,
+    "artist": "Fifth Dimention, The",
+    "title": "Stone Soul Picnic",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 372,
+    "artist": "Five Man Electrical Band, The",
+    "title": "Signs",
+    "genre": "70's Music"
+  },
+  {
+    "id": 373,
+    "artist": "Five Satins, The",
+    "title": "Still Of The Night (In The)",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 374,
+    "artist": "Five Stair Steps, The",
+    "title": "Oooh Child",
+    "genre": "70's Music"
+  },
+  {
+    "id": 375,
+    "artist": "Five Stairsteps, The",
+    "title": "Oooh Child",
+    "genre": "Motown"
+  },
+  {
+    "id": 376,
+    "artist": "Fleetwood Mac",
+    "title": "Don't Stop",
+    "genre": "70's Music"
+  },
+  {
+    "id": 377,
+    "artist": "Fleetwood Mac",
+    "title": "Dreams",
+    "genre": "70's Music"
+  },
+  {
+    "id": 378,
+    "artist": "Fleetwood Mac",
+    "title": "Heartache Tonight",
+    "genre": "70's Music"
+  },
+  {
+    "id": 379,
+    "artist": "Fleetwood Mac",
+    "title": "Rhiannon",
+    "genre": "70's Music"
+  },
+  {
+    "id": 380,
+    "artist": "Fleetwood Mac",
+    "title": "Say That You Love Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 381,
+    "artist": "Florida Georgia Line",
+    "title": "Cruise",
+    "genre": "Country"
+  },
+  {
+    "id": 382,
+    "artist": "Flying Machine, The",
+    "title": "Smile A Lil Smile For Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 383,
+    "artist": "Foreigner",
+    "title": "Cold As Ice",
+    "genre": "70's Music"
+  },
+  {
+    "id": 384,
+    "artist": "Foreigner",
+    "title": "Hot Blooded",
+    "genre": "70's Music"
+  },
+  {
+    "id": 385,
+    "artist": "Fortunes, The",
+    "title": "Rainy Day Feelin' Again",
+    "genre": "70's Music"
+  },
+  {
+    "id": 386,
+    "artist": "Fortunes, The",
+    "title": "You’ve Got Your Troubles (I've Got Mine)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 387,
+    "artist": "Foundations, The",
+    "title": "Buttercup (Build Me Up)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 388,
+    "artist": "Four Seasons, The",
+    "title": "Bye Bye Baby Goodbye",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 389,
+    "artist": "Four Tops, The",
+    "title": "Ain't No Woman (Like The One I've Got)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 390,
+    "artist": "Four Tops, The",
+    "title": "Reach Out (I'll Be There)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 391,
+    "artist": "Four Tops, The",
+    "title": "Same Old Song",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 392,
+    "artist": "Four Tops, The",
+    "title": "Sugar Pie Honey Bunch",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 393,
+    "artist": "Four Tops, The",
+    "title": "When She Was My Girl",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 394,
+    "artist": "Four Tops/ Smokie Robinson",
+    "title": "Motown Medley #1",
+    "genre": "Motown",
+    "medley": [
+      "Same Old Song",
+      "Tears Of A Clown"
+    ]
+  },
+  {
+    "id": 395,
+    "artist": "Four Tops/ Smokie Robinson",
+    "title": "Motown Medley #2",
+    "genre": "Motown",
+    "medley": [
+      "Same Old Song",
+      "25 Miles From Home"
+    ]
+  },
+  {
+    "id": 396,
+    "artist": "Four Tops/Supremes",
+    "title": "Motown Medley #3",
+    "genre": "Motown",
+    "medley": [
+      "Sugar Pie Honey Bunch",
+      "Stop In The Name Of Love"
+    ]
+  },
+  {
+    "id": 397,
+    "artist": "Frampton, Peter",
+    "title": "Baby I Luv Your Way",
+    "genre": "70's Music"
+  },
+  {
+    "id": 398,
+    "artist": "Franklin, Aretha",
+    "title": "Respect",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 399,
+    "artist": "Franklin, Aretha",
+    "title": "Say A Lil' Prayer",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 400,
+    "artist": "Franklin, Aretha",
+    "title": "Since You've Been Gone",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 401,
+    "artist": "Franklin, Aretha",
+    "title": "Until You Come Back To Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 402,
+    "artist": "Free",
+    "title": "All Right Now",
+    "genre": "70's Music"
+  },
+  {
+    "id": 403,
+    "artist": "Free Movement (The)",
+    "title": "I've Found Someone Of My Own",
+    "genre": "70's Music"
+  },
+  {
+    "id": 404,
+    "artist": "Fuller Four, Bobby",
+    "title": "I Fought The Law",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 405,
+    "artist": "Gallery",
+    "title": "It's So Nice To Be With You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 406,
+    "artist": "Gary Lewis & The Playboys",
+    "title": "Count Me In",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 407,
+    "artist": "Gary Lewis & The Playboys",
+    "title": "She's Just My Style",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 408,
+    "artist": "Gary Lewis, & The Playboys",
+    "title": "This Diamond Ring",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 409,
+    "artist": "Gaye, Marvin",
+    "title": "Aint No Mountain High Enough",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 410,
+    "artist": "Gaye, Marvin",
+    "title": "Aint That Peculiar",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 411,
+    "artist": "Gaye, Marvin",
+    "title": "Can I Get A Witness",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 412,
+    "artist": "Gaye, Marvin",
+    "title": "Grapevine (I Heard It Through The)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 413,
+    "artist": "Gaye, Marvin",
+    "title": "How Sweet It Is (To Be loved By You)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 414,
+    "artist": "Gaye, Marvin",
+    "title": "I'll Be Doggone",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 415,
+    "artist": "Gaye, Marvin",
+    "title": "It Takes Two",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 416,
+    "artist": "Gaye, Marvin",
+    "title": "Let's Get It On",
+    "genre": "70's Music"
+  },
+  {
+    "id": 417,
+    "artist": "Gaye, Marvin",
+    "title": "Sexual Healing",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 418,
+    "artist": "Gaye, Marvin",
+    "title": "What's Goin' On",
+    "genre": "70's Music"
+  },
+  {
+    "id": 419,
+    "artist": "Gaye, Marvin",
+    "title": "You're All I Need To Get By",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 420,
+    "artist": "Gaynor Gloria",
+    "title": "I Will Survive",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 421,
+    "artist": "Gaynor, Gloria",
+    "title": "Never Can Say Goodbye",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 422,
+    "artist": "Gene Chandler",
+    "title": "Groovy Situation",
+    "genre": "70's Music"
+  },
+  {
+    "id": 423,
+    "artist": "Georgia Satillites, The",
+    "title": "Keep Your Hands To Yourself",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 424,
+    "artist": "Gerry & The Pacemakers",
+    "title": "Don’t Let The Sun Catch You Cryin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 425,
+    "artist": "Gerry & The Pacemakers",
+    "title": "Ferry Crossed The Mercey",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 426,
+    "artist": "Gibson, Don",
+    "title": "Lonesome Me",
+    "genre": "Country"
+  },
+  {
+    "id": 427,
+    "artist": "Gladys Knight & The Pips",
+    "title": "Midnight Train To Georgia",
+    "genre": "70's Music"
+  },
+  {
+    "id": 428,
+    "artist": "Gladys Knight & The Pips",
+    "title": "The Best Thing That Ever Happened",
+    "genre": "70's Music"
+  },
+  {
+    "id": 429,
+    "artist": "Go Go's, The",
+    "title": "We Got The Beat",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 430,
+    "artist": "Godspell",
+    "title": "Day By Day",
+    "genre": "70's Music"
+  },
+  {
+    "id": 431,
+    "artist": "Gore, Leslie",
+    "title": "Maybe I Know",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 432,
+    "artist": "Grand Funk Railroad",
+    "title": "I'm Your Captain / Closer To Home",
+    "genre": "70's Music",
+    "medley": [
+      "I'm Your Captain",
+      "Closer To Home"
+    ]
+  },
+  {
+    "id": 433,
+    "artist": "Grand Funk Railroad",
+    "title": "Locomotion",
+    "genre": "70's Music"
+  },
+  {
+    "id": 434,
+    "artist": "Grand Funk Railroad",
+    "title": "Some Kinda Wonderful",
+    "genre": "70's Music"
+  },
+  {
+    "id": 435,
+    "artist": "GrassRoots, The",
+    "title": "GrassRoots Medley #1",
+    "genre": "60's Songs",
+    "medley": [
+      "Midnight Confessions",
+      "Temptation Eyes"
+    ]
+  },
+  {
+    "id": 436,
+    "artist": "GrassRoots, The",
+    "title": "GrassRoots Medley #2",
+    "genre": "60's Songs",
+    "medley": [
+      "Sooner Or Later",
+      "A Million Years"
+    ]
+  },
+  {
+    "id": 437,
+    "artist": "GrassRoots, The",
+    "title": "Heaven Knows",
+    "genre": "70's Music"
+  },
+  {
+    "id": 438,
+    "artist": "GrassRoots, The",
+    "title": "Midnight Confessions",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 439,
+    "artist": "GrassRoots, The",
+    "title": "Sooner Or Later",
+    "genre": "70's Music"
+  },
+  {
+    "id": 440,
+    "artist": "GrassRoots, The",
+    "title": "Temptation Eyes",
+    "genre": "70's Music"
+  },
+  {
+    "id": 441,
+    "artist": "GrassRoots, The",
+    "title": "Two Divided By Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 442,
+    "artist": "GrassRoots, The",
+    "title": "Wait A Million Years",
+    "genre": "70's Music"
+  },
+  {
+    "id": 443,
+    "artist": "Gray, Dobie",
+    "title": "The In Crowd",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 444,
+    "artist": "Green Day",
+    "title": "Time Of Your Life",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 445,
+    "artist": "Green, Al",
+    "title": "I'm Still In Love With You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 446,
+    "artist": "Green, Al",
+    "title": "Lets Stay Together",
+    "genre": "70's Music"
+  },
+  {
+    "id": 447,
+    "artist": "Greenbaum, Norman",
+    "title": "Spirit In The Sky",
+    "genre": "70's Music"
+  },
+  {
+    "id": 448,
+    "artist": "Greenwood, Lee",
+    "title": "God Bless The USA",
+    "genre": "Patriotic"
+  },
+  {
+    "id": 449,
+    "artist": "Grey, Dobie",
+    "title": "Drift Away",
+    "genre": "70's Music"
+  },
+  {
+    "id": 450,
+    "artist": "Guess Who, The",
+    "title": "American Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 451,
+    "artist": "Guess Who, The",
+    "title": "Hand Me Down World",
+    "genre": "70's Music"
+  },
+  {
+    "id": 452,
+    "artist": "Guess Who, The",
+    "title": "Laughing",
+    "genre": "70's Music"
+  },
+  {
+    "id": 453,
+    "artist": "Guess Who, The",
+    "title": "No Time",
+    "genre": "70's Music"
+  },
+  {
+    "id": 454,
+    "artist": "Guess Who, The",
+    "title": "These Eyes",
+    "genre": "70's Music"
+  },
+  {
+    "id": 455,
+    "artist": "Guess Who, The",
+    "title": "Undone",
+    "genre": "70's Music"
+  },
+  {
+    "id": 456,
+    "artist": "Hall & Oates",
+    "title": "I Can't Go For That",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 457,
+    "artist": "Hall & Oates",
+    "title": "Maneater",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 458,
+    "artist": "Hall & Oates",
+    "title": "Rich Girl",
+    "genre": "70's Music"
+  },
+  {
+    "id": 459,
+    "artist": "Hall & Oates",
+    "title": "You've Lost That Lovin Feelin",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 460,
+    "artist": "Hamilton, Joe Frank & Reynolds",
+    "title": "(Baby Baby) Fallin' In Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 461,
+    "artist": "Hamilton, Joe Frank & Reynolds",
+    "title": "Don't Pull Your Love Out (On Me Baby)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 462,
+    "artist": "Hammond, Albert",
+    "title": "It Never Rains In California",
+    "genre": "70's Music"
+  },
+  {
+    "id": 463,
+    "artist": "Happenings, The",
+    "title": "See You In September",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 464,
+    "artist": "Hawthorne, Mayer",
+    "title": "The Walk",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 465,
+    "artist": "Heatwave",
+    "title": "Always & Forever",
+    "genre": "Ballads"
+  },
+  {
+    "id": 466,
+    "artist": "Hebb, Bobby",
+    "title": "Sunny",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 467,
+    "artist": "Hendrix, Jimmy",
+    "title": "Purple Haze",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 468,
+    "artist": "Hermans Hermits",
+    "title": "Henry The 8th",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 469,
+    "artist": "Hermans Hermits",
+    "title": "I'm Into Something Good",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 470,
+    "artist": "Hermans Hermits",
+    "title": "Kinda Hush (There's A)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 471,
+    "artist": "Hernandez, Patrick",
+    "title": "Born To Be Alive",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 472,
+    "artist": "Heron-Scott Gil",
+    "title": "The Bottle",
+    "genre": "70's Music"
+  },
+  {
+    "id": 473,
+    "artist": "Hollies, The",
+    "title": "Bus Stop",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 474,
+    "artist": "Hollies, The",
+    "title": "He Aint Heavy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 475,
+    "artist": "Hollies, The",
+    "title": "Long Cool Woman (In A Black Dress)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 476,
+    "artist": "Holmes, Rupert",
+    "title": "Escape (The Pina Colada Song)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 477,
+    "artist": "Hootie & The Blow Fish",
+    "title": "Only Wanna Be With You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 478,
+    "artist": "Hopkin, Mary",
+    "title": "Those Were The Days (My Friend)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 479,
+    "artist": "Houston, Whitney",
+    "title": "Savin All My Love For You",
+    "genre": "Ballads"
+  },
+  {
+    "id": 480,
+    "artist": "Houston, Whitney",
+    "title": "When I Think Of You",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 481,
+    "artist": "Hughs Corporation",
+    "title": "Rock The Boat",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 482,
+    "artist": "Human League, The",
+    "title": "Dont You Want Me Baby",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 483,
+    "artist": "Humperdink, Engelbert",
+    "title": "After The Lovin'",
+    "genre": "Ballads"
+  },
+  {
+    "id": 484,
+    "artist": "Humperdink, Englebert",
+    "title": "Man Without Love (Lonely Is A)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 485,
+    "artist": "Hurricane Smith",
+    "title": "Oh Babe (What Would You Say)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 486,
+    "artist": "Hyland, Brian",
+    "title": "Sealed With A Kiss",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 487,
+    "artist": "Ides Of March, The",
+    "title": "Vehicle",
+    "genre": "70's Music"
+  },
+  {
+    "id": 488,
+    "artist": "Idol, Billy",
+    "title": "White Wedding",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 489,
+    "artist": "Impressions, The",
+    "title": "It's Alright",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 490,
+    "artist": "Ingrahm, Luther",
+    "title": "If Lovin' You is Wrong (I Don't Wanna Be Right)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 491,
+    "artist": "Ingram, James",
+    "title": "Find One Hundred Ways",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 492,
+    "artist": "Intruders, The",
+    "title": "I'll Always Love My Mama",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 493,
+    "artist": "J. Geils Band",
+    "title": "Centerfold",
+    "genre": "70's Music"
+  },
+  {
+    "id": 494,
+    "artist": "J. Geils Band",
+    "title": "Freeze Frame",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 495,
+    "artist": "J. Geils Band",
+    "title": "Musta Got Lost",
+    "genre": "70's Music"
+  },
+  {
+    "id": 496,
+    "artist": "J.J. Jackson",
+    "title": "But It's Alright",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 497,
+    "artist": "Jackson Five, The",
+    "title": "I Want You Back",
+    "genre": "Motown"
+  },
+  {
+    "id": 498,
+    "artist": "Jackson Five, The",
+    "title": "The Love You Save",
+    "genre": "Motown"
+  },
+  {
+    "id": 499,
+    "artist": "Jackson, Michael",
+    "title": "Got To Be There",
+    "genre": "Motown"
+  },
+  {
+    "id": 500,
+    "artist": "Jackson, Michael",
+    "title": "Rock With You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 501,
+    "artist": "Jacksons, The",
+    "title": "Blame It On The Boogie",
+    "genre": "70's Music"
+  },
+  {
+    "id": 502,
+    "artist": "James, Etta",
+    "title": "At Last",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 503,
+    "artist": "James, Etta",
+    "title": "Down Home Blues",
+    "genre": "Blues"
+  },
+  {
+    "id": 504,
+    "artist": "James, Rick",
+    "title": "Give It To Me Baby",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 505,
+    "artist": "James, Tommy & The Shondells",
+    "title": "Crystal Blue Persuasion",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 506,
+    "artist": "Jarmels, The",
+    "title": "A Little Bit Of Soap",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 507,
+    "artist": "Jarreau, Al",
+    "title": "We're In This Love Together",
+    "genre": "70's Music"
+  },
+  {
+    "id": 508,
+    "artist": "Jay & The Americans",
+    "title": "Cara Mia",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 509,
+    "artist": "Jay & The Americans",
+    "title": "Come A Lil' Bit Closer",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 510,
+    "artist": "Jay & The Americans",
+    "title": "This Magic Moment",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 511,
+    "artist": "Jay & The Americans",
+    "title": "Walkin In The Rain",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 512,
+    "artist": "Jay & The Techniques",
+    "title": "Apples Peaches Pumkin Pie",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 513,
+    "artist": "Jefferson Airplane, The",
+    "title": "White Rabbit",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 514,
+    "artist": "Jeffrey, Joe",
+    "title": "My Pledge Of Love",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 515,
+    "artist": "Jett, Joan",
+    "title": "I Love Rock N’ Roll",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 516,
+    "artist": "Joel, Billy",
+    "title": "it's Still Rock & Roll To Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 517,
+    "artist": "Joel, Billy",
+    "title": "Just The Way U Are",
+    "genre": "70's Music"
+  },
+  {
+    "id": 518,
+    "artist": "Joel, Billy",
+    "title": "New York State Of Mind",
+    "genre": "70's Music"
+  },
+  {
+    "id": 519,
+    "artist": "Joel, Billy",
+    "title": "Only The Good Die Young",
+    "genre": "70's Music"
+  },
+  {
+    "id": 520,
+    "artist": "Joel, Billy",
+    "title": "Piano Man",
+    "genre": "70's Music"
+  },
+  {
+    "id": 521,
+    "artist": "Joel, Billy",
+    "title": "Uptown Girl",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 522,
+    "artist": "Joel, Billy",
+    "title": "You May Be Right",
+    "genre": "70's Music"
+  },
+  {
+    "id": 523,
+    "artist": "John Waite",
+    "title": "Missing You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 524,
+    "artist": "John, Elton",
+    "title": "Benny & The Jets",
+    "genre": "70's Music"
+  },
+  {
+    "id": 525,
+    "artist": "John, Elton",
+    "title": "Don't Go Breakin My Heart",
+    "genre": "70's Music"
+  },
+  {
+    "id": 526,
+    "artist": "John, Elton",
+    "title": "I Guess That's Why They Call It The Blues",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 527,
+    "artist": "John, Elton",
+    "title": "Philadelphia Freedom",
+    "genre": "70's Music"
+  },
+  {
+    "id": 528,
+    "artist": "John, Elton",
+    "title": "Rocket Man",
+    "genre": "70's Music"
+  },
+  {
+    "id": 529,
+    "artist": "John, Elton",
+    "title": "Sad Songs",
+    "genre": "70's Music"
+  },
+  {
+    "id": 530,
+    "artist": "John, Elton",
+    "title": "The Bitch Is Back",
+    "genre": "70's Music"
+  },
+  {
+    "id": 531,
+    "artist": "John, Elton",
+    "title": "Your Song",
+    "genre": "70's Music"
+  },
+  {
+    "id": 532,
+    "artist": "John, Olivia Newton",
+    "title": "Hopelessly Devoted To You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 533,
+    "artist": "John, Olivia Newton",
+    "title": "Let Me Be There",
+    "genre": "70's Music"
+  },
+  {
+    "id": 534,
+    "artist": "Johnson, Marv",
+    "title": "You Got What It Takes",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 535,
+    "artist": "Jones, George",
+    "title": "Bartenders Blues",
+    "genre": "Country"
+  },
+  {
+    "id": 536,
+    "artist": "Jones, Tom",
+    "title": "Delilah",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 537,
+    "artist": "Jones, Tom",
+    "title": "Green Green Grass Of Home",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 538,
+    "artist": "Jones, Tom",
+    "title": "I Who Have Nothing",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 539,
+    "artist": "Jones, Tom",
+    "title": "It's Not Unusual",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 540,
+    "artist": "Jones, Tom",
+    "title": "Just Help Yourself",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 541,
+    "artist": "Jones, Tom",
+    "title": "Never Gonna Fall In Love Again (I'm)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 542,
+    "artist": "Jones, Tom",
+    "title": "Say You'll Stay Until Tomorrow",
+    "genre": "70's Music"
+  },
+  {
+    "id": 543,
+    "artist": "Jones, Tom",
+    "title": "Sex Bomb",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 544,
+    "artist": "Jones, Tom",
+    "title": "She's A Lady",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 545,
+    "artist": "Jones, Tom",
+    "title": "Tom Jones Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "It's Not Unusual",
+      "Delilah"
+    ]
+  },
+  {
+    "id": 546,
+    "artist": "Jones, Tom",
+    "title": "What's New Pussycat",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 547,
+    "artist": "Jones, Tom",
+    "title": "With These Hands",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 548,
+    "artist": "Jones, Tom",
+    "title": "You're My World",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 549,
+    "artist": "Journey",
+    "title": "Dont Stop Believin'",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 550,
+    "artist": "Journey",
+    "title": "Open Arms",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 551,
+    "artist": "Journey",
+    "title": "Separate Ways (Worlds Apart)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 552,
+    "artist": "Jr. Walker & The All Stars",
+    "title": "Shotgun",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 553,
+    "artist": "Jr. Walker & The All Stars",
+    "title": "What Does It Take (To Win Your love)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 554,
+    "artist": "K.C. & The Sunshine Band",
+    "title": "Get Down Tonight",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 555,
+    "artist": "K.C. & The Sunshine Band",
+    "title": "I'm Your Boogie Man",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 556,
+    "artist": "K.C. & The Sunshine Band",
+    "title": "Keep It Comin' Love",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 557,
+    "artist": "K.C. & The Sunshine Band",
+    "title": "Shake Your Booty",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 558,
+    "artist": "K.C. & The Sunshine Band",
+    "title": "That's The Way I Like It",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 559,
+    "artist": "Keith, Toby",
+    "title": "A Little Less Talk",
+    "genre": "Country"
+  },
+  {
+    "id": 560,
+    "artist": "Keith, Toby",
+    "title": "Don't Let The Old Man In",
+    "genre": "Country"
+  },
+  {
+    "id": 561,
+    "artist": "Keith, Toby",
+    "title": "Drinks After Work",
+    "genre": "Country"
+  },
+  {
+    "id": 562,
+    "artist": "Keith, Toby",
+    "title": "Mockingbird",
+    "genre": "Country"
+  },
+  {
+    "id": 563,
+    "artist": "Keith, Toby",
+    "title": "Shoulda Been A Cowboy",
+    "genre": "Country"
+  },
+  {
+    "id": 564,
+    "artist": "Kid Rock",
+    "title": "All Summer Long",
+    "genre": "Country"
+  },
+  {
+    "id": 565,
+    "artist": "Kid Rock & Hank Williams Jr.",
+    "title": "Redneck Paradise",
+    "genre": "Country"
+  },
+  {
+    "id": 566,
+    "artist": "Kim, Andy",
+    "title": "Rock Me Gently",
+    "genre": "70's Music"
+  },
+  {
+    "id": 567,
+    "artist": "King Harvest",
+    "title": "Dancin’ In The Moonlight",
+    "genre": "70's Music"
+  },
+  {
+    "id": 568,
+    "artist": "King, B.B.",
+    "title": "Thrill Is Gone",
+    "genre": "Blues"
+  },
+  {
+    "id": 569,
+    "artist": "King, Ben E",
+    "title": "Spanish Harlem",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 570,
+    "artist": "King, Ben E",
+    "title": "Stand By Me",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 571,
+    "artist": "King, Carol",
+    "title": "It’s Too Late",
+    "genre": "70's Music"
+  },
+  {
+    "id": 572,
+    "artist": "King, Carol",
+    "title": "Jazzman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 573,
+    "artist": "King, Carol",
+    "title": "Oh No Not My Baby",
+    "genre": "70's Music"
+  },
+  {
+    "id": 574,
+    "artist": "King, Carol",
+    "title": "One Fine Day",
+    "genre": "70's Music"
+  },
+  {
+    "id": 575,
+    "artist": "King, Carol",
+    "title": "So Far Away",
+    "genre": "70's Music"
+  },
+  {
+    "id": 576,
+    "artist": "King, Carol",
+    "title": "Sweet Seasons",
+    "genre": "70's Music"
+  },
+  {
+    "id": 577,
+    "artist": "King, Evelyn Champaign",
+    "title": "I Don't Know If It's Right",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 578,
+    "artist": "King, Evelyn Champaign",
+    "title": "I'm In Love",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 579,
+    "artist": "King, Evelyn Champaign",
+    "title": "Love Come Down",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 580,
+    "artist": "King, Evelyn Champaign",
+    "title": "Shame",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 581,
+    "artist": "Kingsmen, The",
+    "title": "Louie Louie",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 582,
+    "artist": "Kingston Trio, The",
+    "title": "Charlie On The M.B.T.A.",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 583,
+    "artist": "Kinks, The",
+    "title": "All Day & All Of The Night",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 584,
+    "artist": "Kinks, The",
+    "title": "You Really Got Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 585,
+    "artist": "Knight, Jean",
+    "title": "Mr. Big Stuff",
+    "genre": "70's Music"
+  },
+  {
+    "id": 586,
+    "artist": "Kool & The Gang",
+    "title": "Celebration",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 587,
+    "artist": "L.T.D.",
+    "title": "Back In Love Again",
+    "genre": "70's Music"
+  },
+  {
+    "id": 588,
+    "artist": "Lawrence, Vicky",
+    "title": "The Night The Lights Went Out In Georgia",
+    "genre": "Country"
+  },
+  {
+    "id": 589,
+    "artist": "Led Zeplin",
+    "title": "Stairway To Heaven",
+    "genre": "70's Music"
+  },
+  {
+    "id": 590,
+    "artist": "Lee, Johnny",
+    "title": "Lookin' For Love",
+    "genre": "Country"
+  },
+  {
+    "id": 591,
+    "artist": "Left Banke",
+    "title": "Walk Away Renee",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 592,
+    "artist": "Lemon Pipers, The",
+    "title": "Green Tambourine",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 593,
+    "artist": "Lewis, Barbara",
+    "title": "Hello Stranger",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 594,
+    "artist": "Lewis, Huey",
+    "title": "I Want A New Drug",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 595,
+    "artist": "Lewis, Huey",
+    "title": "If This Is It",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 596,
+    "artist": "Lewis, Ramsey",
+    "title": "Sun Goddess",
+    "genre": "70's Music"
+  },
+  {
+    "id": 597,
+    "artist": "Lighthouse",
+    "title": "One Fine Mornin'",
+    "genre": "70's Music"
+  },
+  {
+    "id": 598,
+    "artist": "Little Anthony & The Imperials",
+    "title": "Goin' Outta My Head (Over You)",
+    "genre": "Ballads"
+  },
+  {
+    "id": 599,
+    "artist": "Little Anthony & The Imperials",
+    "title": "Hurt So Bad",
+    "genre": "Ballads"
+  },
+  {
+    "id": 600,
+    "artist": "Little Anthony & The Imperials",
+    "title": "Shimmy Shimmy Ko Ko Bop",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 601,
+    "artist": "Little Anthony & The Imperials",
+    "title": "Tears On My Pillow",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 602,
+    "artist": "Little Richard",
+    "title": "Lucille",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 603,
+    "artist": "Loggins & Messina",
+    "title": "Your Momma Don't Dance",
+    "genre": "70's Music"
+  },
+  {
+    "id": 604,
+    "artist": "Loggins, Kenny",
+    "title": "Footloose",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 605,
+    "artist": "Looking Glass",
+    "title": "Brandy (You're A Fine Girl)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 606,
+    "artist": "Lopez, Trini",
+    "title": "If I Had A Hammer",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 607,
+    "artist": "Lopez, Trini",
+    "title": "Lemon Tree",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 608,
+    "artist": "Lopez, Trini",
+    "title": "This Land Is Your Land",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 609,
+    "artist": "Lopez, Trini",
+    "title": "Trini Lopez Medley #1",
+    "genre": "60's Songs",
+    "medley": [
+      "If I Had A Hammer",
+      "This Land Is Your Land"
+    ]
+  },
+  {
+    "id": 610,
+    "artist": "Lopez, Trini",
+    "title": "Trini Lopez Medley #2",
+    "genre": "60's Songs",
+    "medley": [
+      "You Are My Sunshine",
+      "Lemon Tree"
+    ]
+  },
+  {
+    "id": 611,
+    "artist": "Lopez, Trini",
+    "title": "You Are My Sunshine",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 612,
+    "artist": "Los Bravos",
+    "title": "Black Is Black",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 613,
+    "artist": "Loverboy",
+    "title": "Workin' For The Weekend",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 614,
+    "artist": "Lovin Spoonful, The",
+    "title": "Summer In The City",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 615,
+    "artist": "Lovin' Spoonful, The",
+    "title": "Do You Believe In Magic",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 616,
+    "artist": "Lovin’ Spoonful, The",
+    "title": "You Didn’t Have To Be So Nice",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 617,
+    "artist": "LuLu",
+    "title": "To Sir With Love",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 618,
+    "artist": "Lymon, Frankie",
+    "title": "Why Do Fools Fall In Love",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 619,
+    "artist": "Lynyrd Skynyrd",
+    "title": "Sweet Home Alabama",
+    "genre": "70's Music"
+  },
+  {
+    "id": 620,
+    "artist": "Machine",
+    "title": "There Before The Grace Of God Go I",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 621,
+    "artist": "Madonna",
+    "title": "BoarderLine",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 622,
+    "artist": "Madonna",
+    "title": "Holiday",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 623,
+    "artist": "Main Ingrediant, The",
+    "title": "Everybody Plays The Fool",
+    "genre": "70's Music"
+  },
+  {
+    "id": 624,
+    "artist": "Malo",
+    "title": "Suavecito",
+    "genre": "70's Music"
+  },
+  {
+    "id": 625,
+    "artist": "Mama's & Papa's, The",
+    "title": "California Dreamin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 626,
+    "artist": "Mama's & Papa's, The",
+    "title": "Monday Monday",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 627,
+    "artist": "Manfred Mann",
+    "title": "Do Aw Diddy Diddy",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 628,
+    "artist": "Mangione, Chuck",
+    "title": "Feel So Good",
+    "genre": "70's Music"
+  },
+  {
+    "id": 629,
+    "artist": "Manilow, Barry",
+    "title": "Copacabana",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 630,
+    "artist": "Manilow, Barry",
+    "title": "Daybreak",
+    "genre": "70's Music"
+  },
+  {
+    "id": 631,
+    "artist": "Manilow, Barry",
+    "title": "I Can't Smile Without You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 632,
+    "artist": "Mardones, Benny",
+    "title": "Into The Night",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 633,
+    "artist": "Marmalade",
+    "title": "Reflections Of My Life",
+    "genre": "Ballads"
+  },
+  {
+    "id": 634,
+    "artist": "Maroon 5",
+    "title": "Moves Like Jagger",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 635,
+    "artist": "Mars, Bruno",
+    "title": "I Just Might",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 636,
+    "artist": "Mars, Bruno",
+    "title": "Uptown Funk",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 637,
+    "artist": "Marshal Tucker Band, The",
+    "title": "Cant Ya See",
+    "genre": "70's Music"
+  },
+  {
+    "id": 638,
+    "artist": "Marshall Tucker Band, The",
+    "title": "Heard It In A Luv Song",
+    "genre": "70's Music"
+  },
+  {
+    "id": 639,
+    "artist": "Martha Reeves & The Vandellas",
+    "title": "Dancin' In The Street",
+    "genre": "Motown"
+  },
+  {
+    "id": 640,
+    "artist": "Martha Reeves & The Vandellas",
+    "title": "Heatwave",
+    "genre": "Motown"
+  },
+  {
+    "id": 641,
+    "artist": "Martha Reeves & The Vandellas",
+    "title": "Jimmy Mack",
+    "genre": "Motown"
+  },
+  {
+    "id": 642,
+    "artist": "Martha Reeves & The Vandellas",
+    "title": "Nowhere To Run",
+    "genre": "Motown"
+  },
+  {
+    "id": 643,
+    "artist": "Martin, Dean",
+    "title": "Aint That A Kick In The Head",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 644,
+    "artist": "Martin, Dean",
+    "title": "Evening In Roma",
+    "genre": "Italian"
+  },
+  {
+    "id": 645,
+    "artist": "Martin, Dean",
+    "title": "Everybody Loves Somebody Sometime",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 646,
+    "artist": "Martin, Ricky",
+    "title": "Livin Lavida Loca",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 647,
+    "artist": "Mavericks, The",
+    "title": "Damed If You Do",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 648,
+    "artist": "Mavericks, The",
+    "title": "Dance The Night Away (New)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 649,
+    "artist": "Mavericks, The",
+    "title": "Wanna Love You All Night Long",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 650,
+    "artist": "Mayer, Hawthorne",
+    "title": "The Walk",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 651,
+    "artist": "McCartney, Paul",
+    "title": "Band On The Run",
+    "genre": "70's Music"
+  },
+  {
+    "id": 652,
+    "artist": "McCartney, Paul / Wonder Stevie",
+    "title": "Ebony & Ivory",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 653,
+    "artist": "McCoys, The",
+    "title": "Hang On Sloopy",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 654,
+    "artist": "McDonald, Michael",
+    "title": "I Keep Forgettin'",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 655,
+    "artist": "McFadden & Whitehead",
+    "title": "Aint No Stoppin Us Now",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 656,
+    "artist": "McGraw, Tim",
+    "title": "Humble & Kind",
+    "genre": "Country"
+  },
+  {
+    "id": 657,
+    "artist": "McGraw, Tim",
+    "title": "I Like It I Luv It",
+    "genre": "Country"
+  },
+  {
+    "id": 658,
+    "artist": "McGraw, Tim",
+    "title": "My Next 30 Years",
+    "genre": "Country"
+  },
+  {
+    "id": 659,
+    "artist": "McGraw, Tim",
+    "title": "Somethin Like That",
+    "genre": "Country"
+  },
+  {
+    "id": 660,
+    "artist": "McGraw, Tim",
+    "title": "Truck Yeah",
+    "genre": "Country"
+  },
+  {
+    "id": 661,
+    "artist": "McGraw, Tim",
+    "title": "Where The Green Grass Grows",
+    "genre": "Country"
+  },
+  {
+    "id": 662,
+    "artist": "McGraw, Tim / Campbell Glen",
+    "title": "My Next 30 Years / Try A Lil' Kindness",
+    "genre": "Country",
+    "medley": [
+      "My Next 30 Years",
+      "Try A Lil' Kindness"
+    ]
+  },
+  {
+    "id": 663,
+    "artist": "Mckenzie, Scott",
+    "title": "Going To Sanfransico (With Flowers In Your Hair)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 664,
+    "artist": "Meatloaf",
+    "title": "2 Outta 3 Ain't Bad",
+    "genre": "70's Music"
+  },
+  {
+    "id": 665,
+    "artist": "Mellancamp, John Cougar",
+    "title": "Hurt So Good",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 666,
+    "artist": "Mellancamp, John Cougar",
+    "title": "Pink Houses",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 667,
+    "artist": "Mellencamp, John Cougar",
+    "title": "R-O-C-K In The U.S.A.",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 668,
+    "artist": "MellowKings, The",
+    "title": "Tonight Tonight",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 669,
+    "artist": "Melvin, Harold & The Blue Notes",
+    "title": "Bad Luck",
+    "genre": "70's Music"
+  },
+  {
+    "id": 670,
+    "artist": "Melvin, Harold & The Blue Notes",
+    "title": "If You Don't Know Me By Now",
+    "genre": "70's Music"
+  },
+  {
+    "id": 671,
+    "artist": "Melvin, Harold & The Blue Notes",
+    "title": "The Love I Lost",
+    "genre": "70's Music"
+  },
+  {
+    "id": 672,
+    "artist": "Melvin, Harold & The Blue Notes",
+    "title": "Wake Up Everybody",
+    "genre": "70's Music"
+  },
+  {
+    "id": 673,
+    "artist": "Michael Jackson / Steely Dan",
+    "title": "Billy Jean / Back Jack Do It Again",
+    "genre": "70's Music",
+    "medley": [
+      "Billy Jean",
+      "Back Jack Do It Again"
+    ]
+  },
+  {
+    "id": 674,
+    "artist": "Michaels, Lee",
+    "title": "Do You Know What I Mean",
+    "genre": "Classic Rock"
+  },
+  {
+    "id": 675,
+    "artist": "Midler, Bet",
+    "title": "Wind Beneath My Wings",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 676,
+    "artist": "Miller, Roger",
+    "title": "King Of The Road",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 677,
+    "artist": "Mills, Stephanie",
+    "title": "Never Knew Love Like This Before",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 678,
+    "artist": "Milsap, Ronnie",
+    "title": "No Getting Over Me",
+    "genre": "Country"
+  },
+  {
+    "id": 679,
+    "artist": "Milsap, Ronnie",
+    "title": "Wouldn't Have Missed It For The World",
+    "genre": "Country"
+  },
+  {
+    "id": 680,
+    "artist": "Moments, The",
+    "title": "Love On A 2 Way Street",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 681,
+    "artist": "Money, Eddie",
+    "title": "Baby Hold On",
+    "genre": "70's Music"
+  },
+  {
+    "id": 682,
+    "artist": "Money, Eddie",
+    "title": "Two Tickets To Paradise",
+    "genre": "70's Music"
+  },
+  {
+    "id": 683,
+    "artist": "Monkees, The",
+    "title": "A Lil Bit Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 684,
+    "artist": "Monkees, The",
+    "title": "Daydream Believer",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 685,
+    "artist": "Monkees, The",
+    "title": "Im A Believer",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 686,
+    "artist": "Monkees, The",
+    "title": "Pleasant Valley Sunday",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 687,
+    "artist": "Monkees, The",
+    "title": "Valleri",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 688,
+    "artist": "Montez, Chris",
+    "title": "More I Love You (The)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 689,
+    "artist": "Moody Blues",
+    "title": "Nights In White Satin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 690,
+    "artist": "Moody Blues",
+    "title": "Tuesday Afternoon",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 691,
+    "artist": "Morrison, Van",
+    "title": "Brown Eyed Girl",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 692,
+    "artist": "Morrison, Van",
+    "title": "Domino",
+    "genre": "70's Music"
+  },
+  {
+    "id": 693,
+    "artist": "Morrison, Van",
+    "title": "G-L-O-R-I-A",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 694,
+    "artist": "Morrison, Van",
+    "title": "Have I Told You Lately That I Love You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 695,
+    "artist": "Morrison, Van",
+    "title": "Im In Heaven (When You Smile)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 696,
+    "artist": "Morrison, Van",
+    "title": "Into The Mystic",
+    "genre": "70's Music"
+  },
+  {
+    "id": 697,
+    "artist": "Morrison, Van",
+    "title": "Moondance",
+    "genre": "70's Music"
+  },
+  {
+    "id": 698,
+    "artist": "Morrison, Van",
+    "title": "Wild Night",
+    "genre": "70's Music"
+  },
+  {
+    "id": 699,
+    "artist": "Mountain",
+    "title": "Mississippi Queen",
+    "genre": "70's Music"
+  },
+  {
+    "id": 700,
+    "artist": "Muldaur, Maria",
+    "title": "Midnight At The Oasis",
+    "genre": "70's Music"
+  },
+  {
+    "id": 701,
+    "artist": "Music Explosion (The)",
+    "title": "A Lil' Bit O Soul",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 702,
+    "artist": "Music Travel Love",
+    "title": "Killing Me Softly",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 703,
+    "artist": "Myles, Allannah",
+    "title": "Black Velvet",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 704,
+    "artist": "Nash, Johnny",
+    "title": "I Can See Clearly Now",
+    "genre": "70's Music"
+  },
+  {
+    "id": 705,
+    "artist": "Nelson, Ricky",
+    "title": "Fools Rush In",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 706,
+    "artist": "Nelson, Ricky",
+    "title": "It's Up To You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 707,
+    "artist": "Nelson, Willie",
+    "title": "City Of New Orleans",
+    "genre": "70's Music"
+  },
+  {
+    "id": 708,
+    "artist": "Nelson, Willie",
+    "title": "On The Road Again",
+    "genre": "70's Music"
+  },
+  {
+    "id": 709,
+    "artist": "Newton, Wayne",
+    "title": "Daddy Don’t You Walk So Fast",
+    "genre": "70's Music"
+  },
+  {
+    "id": 710,
+    "artist": "Newton, Wayne",
+    "title": "Danka Shoen",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 711,
+    "artist": "Nicolette Larson",
+    "title": "A Lotta Love (It's Gonna Take)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 712,
+    "artist": "Nilsson, Harry",
+    "title": "Everybody's Talkin At Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 713,
+    "artist": "Nilsson, Harry",
+    "title": "Without You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 714,
+    "artist": "O'Jays, The",
+    "title": "Love Train",
+    "genre": "70's Music"
+  },
+  {
+    "id": 715,
+    "artist": "O'Sullivan, Gilbert",
+    "title": "Get Down Get Down",
+    "genre": "70's Music"
+  },
+  {
+    "id": 716,
+    "artist": "Oak Ridge Boys, The",
+    "title": "Elvira",
+    "genre": "Country"
+  },
+  {
+    "id": 717,
+    "artist": "Ocean, Billy",
+    "title": "Carribean Queen",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 718,
+    "artist": "Ojay's, The",
+    "title": "Backstabbers",
+    "genre": "70's Music"
+  },
+  {
+    "id": 719,
+    "artist": "Ojay's, The",
+    "title": "For The Love Of Money",
+    "genre": "70's Music"
+  },
+  {
+    "id": 720,
+    "artist": "Ojay's, The",
+    "title": "Use Ta Be My Girl",
+    "genre": "70's Music"
+  },
+  {
+    "id": 721,
+    "artist": "Old Dominion",
+    "title": "I Was On A Boat That Day",
+    "genre": "Country"
+  },
+  {
+    "id": 722,
+    "artist": "Orbison, Roy",
+    "title": "Blue Bayou",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 723,
+    "artist": "Orbison, Roy",
+    "title": "Crying",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 724,
+    "artist": "Orbison, Roy",
+    "title": "Dream Baby",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 725,
+    "artist": "Orbison, Roy",
+    "title": "In Dreams",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 726,
+    "artist": "Orbison, Roy",
+    "title": "Pretty Woman",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 727,
+    "artist": "Orbison, Roy",
+    "title": "Running Scared",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 728,
+    "artist": "Orlando, Tony",
+    "title": "Candida",
+    "genre": "70's Music"
+  },
+  {
+    "id": 729,
+    "artist": "Orlando, Tony",
+    "title": "Knock 3 Times",
+    "genre": "70's Music"
+  },
+  {
+    "id": 730,
+    "artist": "Orlando, Tony",
+    "title": "Tie A Yellow Ribbon",
+    "genre": "70's Music"
+  },
+  {
+    "id": 731,
+    "artist": "Orlando, Tony",
+    "title": "Tony Orlando Medley",
+    "genre": "70's Music",
+    "medley": [
+      "Knock 3 Times",
+      "Candida"
+    ]
+  },
+  {
+    "id": 732,
+    "artist": "Orpheus",
+    "title": "Cant Find The Time (To Tell You)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 733,
+    "artist": "Osborne, Jefferey",
+    "title": "On The Wings Of Love",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 734,
+    "artist": "Osmond, Donny",
+    "title": "Too Young (They Tried to Tell Us)",
+    "genre": "Ballads"
+  },
+  {
+    "id": 735,
+    "artist": "Osmond, Marie",
+    "title": "Paper Roses",
+    "genre": "Country"
+  },
+  {
+    "id": 736,
+    "artist": "Otto, James",
+    "title": "Just Got Started Lovin You",
+    "genre": "Country"
+  },
+  {
+    "id": 737,
+    "artist": "Outsiders, The",
+    "title": "Time Won't let Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 738,
+    "artist": "Ozark Mountain Daredevils, The",
+    "title": "Jackie Blue",
+    "genre": "70's Music"
+  },
+  {
+    "id": 739,
+    "artist": "Pablo Cruise",
+    "title": "Love Will Find A Way",
+    "genre": "70's Music"
+  },
+  {
+    "id": 740,
+    "artist": "Pablo Cruise",
+    "title": "Whatchya Gonna Do (When She Says Goodbye)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 741,
+    "artist": "Palmer, Robert",
+    "title": "Addicted To Love",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 742,
+    "artist": "Palmer, Robert",
+    "title": "Bad Case Of Lovin U",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 743,
+    "artist": "Palmer, Robert",
+    "title": "Every Kinda People",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 744,
+    "artist": "Parker, Robert",
+    "title": "BareFootin'",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 745,
+    "artist": "Parton, Dolly",
+    "title": "9 To 5 (Workin')",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 746,
+    "artist": "Parton, Dolly",
+    "title": "Here You Come Again",
+    "genre": "Country"
+  },
+  {
+    "id": 747,
+    "artist": "Parton, Dolly",
+    "title": "Jolene",
+    "genre": "Country"
+  },
+  {
+    "id": 748,
+    "artist": "Parton, Dolly & Kenny Rogers",
+    "title": "Islands In The Stream",
+    "genre": "Country"
+  },
+  {
+    "id": 749,
+    "artist": "Payne, Freida",
+    "title": "Band Of Gold",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 750,
+    "artist": "Pendergrass, Teddy",
+    "title": "Don't Leave Me This Way",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 751,
+    "artist": "Pendergrass, Teddy",
+    "title": "I Dont Luv You Anymore",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 752,
+    "artist": "Pendergrass, Teddy",
+    "title": "The Love I Lost",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 753,
+    "artist": "Pendergrass, Teddy",
+    "title": "Wake Up Everybody",
+    "genre": "70's Music"
+  },
+  {
+    "id": 754,
+    "artist": "Peter & Gordon",
+    "title": "I Go To Pieces",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 755,
+    "artist": "Peter & Gordon",
+    "title": "World Without Love",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 756,
+    "artist": "Peter Paul & Mary",
+    "title": "I Dig Rockin'Roll Music",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 757,
+    "artist": "Peter Paul & Mary",
+    "title": "Jet Plane (Leaving On A)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 758,
+    "artist": "Petty, Tom",
+    "title": "Free Fallin",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 759,
+    "artist": "Petty, Tom",
+    "title": "I Won't Back Down",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 760,
+    "artist": "Petty, Tom",
+    "title": "Refugee",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 761,
+    "artist": "Phillips, Phil",
+    "title": "Sea Of Love",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 762,
+    "artist": "Pickett, Wilson",
+    "title": "634-5789",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 763,
+    "artist": "Pickett, Wilson",
+    "title": "Don't Let The Green Grass Fool Ya",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 764,
+    "artist": "Pickett, Wilson",
+    "title": "Knock On Wood",
+    "genre": "Motown"
+  },
+  {
+    "id": 765,
+    "artist": "Pickett, Wilson",
+    "title": "Midnight Hour",
+    "genre": "Motown"
+  },
+  {
+    "id": 766,
+    "artist": "Pickett, Wilson",
+    "title": "Mustang Sally",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 767,
+    "artist": "Pink",
+    "title": "Get This Party Started",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 768,
+    "artist": "Platters, The",
+    "title": "My Prayer",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 769,
+    "artist": "Platters, The",
+    "title": "Smoke Gets In Your Eyes",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 770,
+    "artist": "Platters, The",
+    "title": "Twilight Time",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 771,
+    "artist": "Platters, The",
+    "title": "With This Ring (I Thee Wed)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 772,
+    "artist": "Play",
+    "title": "I'm Gonna Make You Love Me",
+    "genre": "Motown"
+  },
+  {
+    "id": 773,
+    "artist": "Pointer Sisters, The",
+    "title": "I'm So Excited",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 774,
+    "artist": "Presley, Elvis",
+    "title": "American Trilogy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 775,
+    "artist": "Presley, Elvis",
+    "title": "Bossa Nova Baby Medley",
+    "genre": "50's Songs",
+    "medley": [
+      "Rubberneckin'",
+      "Bossa Nova Baby"
+    ]
+  },
+  {
+    "id": 776,
+    "artist": "Presley, Elvis",
+    "title": "Burnin' Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 777,
+    "artist": "Presley, Elvis",
+    "title": "Can't Help Falling In Love",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 778,
+    "artist": "Presley, Elvis",
+    "title": "Elvis Rock N' Roll Medley",
+    "genre": "50's Songs",
+    "medley": [
+      "Heartbreak Hotel",
+      "Hound Dog",
+      "All Shook Up",
+      "Teddy Bear",
+      "Don' Be Cruel",
+      "Jailhouse Rock"
+    ]
+  },
+  {
+    "id": 779,
+    "artist": "Presley, Elvis",
+    "title": "Hurt (I'm So)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 780,
+    "artist": "Presley, Elvis",
+    "title": "If I Can Dream",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 781,
+    "artist": "Presley, Elvis",
+    "title": "In The Ghetto",
+    "genre": "70's Music"
+  },
+  {
+    "id": 782,
+    "artist": "Presley, Elvis",
+    "title": "It's Now Or Never",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 783,
+    "artist": "Presley, Elvis",
+    "title": "Kentucky Rain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 784,
+    "artist": "Presley, Elvis",
+    "title": "Little Sister",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 785,
+    "artist": "Presley, Elvis",
+    "title": "Little Sister Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "Little Sister",
+      "Burnin' Love"
+    ]
+  },
+  {
+    "id": 786,
+    "artist": "Presley, Elvis",
+    "title": "One Night With You",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 787,
+    "artist": "Presley, Elvis",
+    "title": "One Night With You Medley",
+    "genre": "50's Songs",
+    "medley": [
+      "One Night With You",
+      "Release Me"
+    ]
+  },
+  {
+    "id": 788,
+    "artist": "Presley, Elvis",
+    "title": "Polk Salad Anne",
+    "genre": "70's Music"
+  },
+  {
+    "id": 789,
+    "artist": "Presley, Elvis",
+    "title": "Release Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 790,
+    "artist": "Presley, Elvis",
+    "title": "Return To Sender",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 791,
+    "artist": "Presley, Elvis",
+    "title": "Surrender",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 792,
+    "artist": "Presley, Elvis",
+    "title": "Suspicious Minds",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 793,
+    "artist": "Presley, Elvis",
+    "title": "Suspicious Minds Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "Suspicious Minds",
+      "The Wonder Of You"
+    ]
+  },
+  {
+    "id": 794,
+    "artist": "Presley, Elvis",
+    "title": "Too Much",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 795,
+    "artist": "Presley, Elvis",
+    "title": "Wonder Of You (The)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 796,
+    "artist": "Presley, Elvis",
+    "title": "You Don't Have To Say You Love Me",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 797,
+    "artist": "Presley, Elvis",
+    "title": "You Gave Me A Mountain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 798,
+    "artist": "Preston, Billy",
+    "title": "Nothin' From Nothin'",
+    "genre": "70's Music"
+  },
+  {
+    "id": 799,
+    "artist": "Preston, Billy",
+    "title": "Will It Go Round In Circles",
+    "genre": "70's Music"
+  },
+  {
+    "id": 800,
+    "artist": "Pretenders, The",
+    "title": "Back On The ChainGang",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 801,
+    "artist": "Price, Lloyd",
+    "title": "Personality (You've Got)",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 802,
+    "artist": "Priest, Maxi",
+    "title": "Close To You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 803,
+    "artist": "Prima, Louie",
+    "title": "Buona Sera, Buona Sera",
+    "genre": "Italian"
+  },
+  {
+    "id": 804,
+    "artist": "Prima, Louie",
+    "title": "Louie Prima Medley",
+    "genre": "Italian",
+    "medley": [
+      "Zooma Zooma",
+      "Che La Luna",
+      "Angelina"
+    ]
+  },
+  {
+    "id": 805,
+    "artist": "Prima, Louie",
+    "title": "Oh Marie (Wey)",
+    "genre": "Italian"
+  },
+  {
+    "id": 806,
+    "artist": "Prince",
+    "title": "1999",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 807,
+    "artist": "Prince",
+    "title": "Lets Go Crazy",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 808,
+    "artist": "Procol Harum",
+    "title": "Whiter Shade Of Pale",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 809,
+    "artist": "Puckett, Gary",
+    "title": "Over You (Why Am I Loosing Sleep)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 810,
+    "artist": "Puckett, Gary",
+    "title": "Woman, Woman",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 811,
+    "artist": "Puckett, Gary",
+    "title": "Young Girl",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 812,
+    "artist": "Pure Prarie League",
+    "title": "Amie (Whatchya Gonna Do)",
+    "genre": "Country"
+  },
+  {
+    "id": 813,
+    "artist": "Purify, Bobby",
+    "title": "I'm Your Puppet",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 814,
+    "artist": "Quarterflash",
+    "title": "Harden My Heart",
+    "genre": "70's Music"
+  },
+  {
+    "id": 815,
+    "artist": "Queen",
+    "title": "Another One Bites The Dust",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 816,
+    "artist": "Queen",
+    "title": "Crazy Little Thing Called Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 817,
+    "artist": "Queen",
+    "title": "We Are The Champions",
+    "genre": "70's Music"
+  },
+  {
+    "id": 818,
+    "artist": "R.E.M.",
+    "title": "Losing My Religion",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 819,
+    "artist": "R.E.M.",
+    "title": "The One I Love",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 820,
+    "artist": "Rabbitt, Eddie",
+    "title": "Drivin’ My life Away",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 821,
+    "artist": "Rabbitt, Eddie",
+    "title": "I Love A Rainy Night",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 822,
+    "artist": "Raitt, Bonnie",
+    "title": "Nick Of Time",
+    "genre": "70's Music"
+  },
+  {
+    "id": 823,
+    "artist": "Raitt, Bonnie",
+    "title": "Somethin' To Talk About",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 824,
+    "artist": "Ramones, The",
+    "title": "Baby I Love You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 825,
+    "artist": "Rare Earth",
+    "title": "Get Ready",
+    "genre": "70's Music"
+  },
+  {
+    "id": 826,
+    "artist": "Rascal Flatts",
+    "title": "Life Is A Highway",
+    "genre": "Country"
+  },
+  {
+    "id": 827,
+    "artist": "Rascals, The",
+    "title": "Beautiful Mornin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 828,
+    "artist": "Rascals, The",
+    "title": "Good Lovin'",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 829,
+    "artist": "Rascals, The",
+    "title": "Groovin' (On A Sunday Afternoon)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 830,
+    "artist": "Rascals, The",
+    "title": "I've Been Lonely Too Long",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 831,
+    "artist": "Raspberries, The",
+    "title": "Go All The Way",
+    "genre": "70's Music"
+  },
+  {
+    "id": 832,
+    "artist": "Rawls, Lou",
+    "title": "Lady Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 833,
+    "artist": "Rawls, Lou",
+    "title": "You'll Never Find (Another Love Like Mine)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 834,
+    "artist": "Ray, Johnnie",
+    "title": "Cry",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 835,
+    "artist": "Ray, Johnnie",
+    "title": "Please Mister Sun",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 836,
+    "artist": "Rays, The",
+    "title": "Silhouettes",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 837,
+    "artist": "Re-make",
+    "title": "Ain't No Sunshine",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 838,
+    "artist": "Re-Make",
+    "title": "For Once In My Life (Ballad)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 839,
+    "artist": "Redbone",
+    "title": "Come & Get Your Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 840,
+    "artist": "Redding, Otis",
+    "title": "Dock Of The Bay",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 841,
+    "artist": "Redding, Otis",
+    "title": "Love Man (I'm A )",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 842,
+    "artist": "Reddy, Helen",
+    "title": "Delta Dawn",
+    "genre": "Country"
+  },
+  {
+    "id": 843,
+    "artist": "Rich, Charlie",
+    "title": "Behind Closed Doors",
+    "genre": "Country"
+  },
+  {
+    "id": 844,
+    "artist": "Rich, Charlie",
+    "title": "Charlie Rich Medley",
+    "genre": "Country",
+    "medley": [
+      "The Most Beautiful Girl",
+      "Behind Closed Doors"
+    ]
+  },
+  {
+    "id": 845,
+    "artist": "Rich, Charlie",
+    "title": "The Most Beautiful Girl",
+    "genre": "Country"
+  },
+  {
+    "id": 846,
+    "artist": "Right Said Fred",
+    "title": "I'm Too Sexy",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 847,
+    "artist": "Righteous Brothers, The",
+    "title": "Righteous Brothers Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "You’ve Lost That Lovin’ Feelin",
+      "Soul & Inspiration"
+    ]
+  },
+  {
+    "id": 848,
+    "artist": "Righteous Brothers, The",
+    "title": "Rockin' Roll Heaven",
+    "genre": "70's Music"
+  },
+  {
+    "id": 849,
+    "artist": "Righteous Brothers, The",
+    "title": "Unchained Melody",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 850,
+    "artist": "Riley, Jeannie C.",
+    "title": "Harper Valley P.T.A.",
+    "genre": "Country"
+  },
+  {
+    "id": 851,
+    "artist": "Ritchie, Lionel",
+    "title": "You Are",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 852,
+    "artist": "Rivers, Johnny",
+    "title": "Baby I Need Your Lovin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 853,
+    "artist": "Rivers, Johnny",
+    "title": "Mountain of Love",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 854,
+    "artist": "Rivers, Johnny",
+    "title": "Poor Side Of Town",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 855,
+    "artist": "Rivers, Johnny",
+    "title": "Rockin Pneumonia & The Boogie Woogie Flu",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 856,
+    "artist": "Rivers, Johnny",
+    "title": "Secret Agent Man",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 857,
+    "artist": "Rivers, Johnny",
+    "title": "Summer Rain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 858,
+    "artist": "Robbie Dupree",
+    "title": "Steal Away",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 859,
+    "artist": "Robinson, Smokie",
+    "title": "I Second That Emotion",
+    "genre": "Motown"
+  },
+  {
+    "id": 860,
+    "artist": "Robinson, Smokie",
+    "title": "Oooh Baby Baby",
+    "genre": "Motown"
+  },
+  {
+    "id": 861,
+    "artist": "Robinson, Smokie",
+    "title": "Tears Of A Clown",
+    "genre": "Motown"
+  },
+  {
+    "id": 862,
+    "artist": "Robinson, Smokie",
+    "title": "You Really Got A Hold On Me",
+    "genre": "Motown"
+  },
+  {
+    "id": 863,
+    "artist": "Robinson, Vicki Sue",
+    "title": "Turn The Beat Around",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 864,
+    "artist": "Roe, Tommy",
+    "title": "Dizzy",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 865,
+    "artist": "Rogers, Kenny",
+    "title": "Lady",
+    "genre": "Ballads"
+  },
+  {
+    "id": 866,
+    "artist": "Rogers, Kenny",
+    "title": "Ruby",
+    "genre": "70's Music"
+  },
+  {
+    "id": 867,
+    "artist": "Rogers, Kenny",
+    "title": "The Gambler",
+    "genre": "70's Music"
+  },
+  {
+    "id": 868,
+    "artist": "Rogers, Kenny & Dolly Parton",
+    "title": "Islands In The Stream",
+    "genre": "Country"
+  },
+  {
+    "id": 869,
+    "artist": "Rolling Stones, The",
+    "title": "Brown Sugar",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 870,
+    "artist": "Rolling Stones, The",
+    "title": "Honky Tonk Woman",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 871,
+    "artist": "Rolling Stones, The",
+    "title": "Jumpin Jack Flash",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 872,
+    "artist": "Rolling Stones, The",
+    "title": "Paint It Black",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 873,
+    "artist": "Rolling Stones, The",
+    "title": "Satisfaction",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 874,
+    "artist": "Rolling Stones, The",
+    "title": "The Last Time",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 875,
+    "artist": "Rolling Stones, The",
+    "title": "Tumblin' Dice",
+    "genre": "70's Music"
+  },
+  {
+    "id": 876,
+    "artist": "Rolling Stones, The",
+    "title": "Under My Thumb",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 877,
+    "artist": "Romantics, The",
+    "title": "What I Like About You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 878,
+    "artist": "Ronettes, The",
+    "title": "Baby I Love You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 879,
+    "artist": "Ronettes, The",
+    "title": "Be My Baby",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 880,
+    "artist": "Ronstadt, Linda",
+    "title": "It's So Easy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 881,
+    "artist": "Ronstadt, Linda",
+    "title": "When Will I Be Loved",
+    "genre": "70's Music"
+  },
+  {
+    "id": 882,
+    "artist": "Ronstadt, Linda",
+    "title": "You're No Good",
+    "genre": "70's Music"
+  },
+  {
+    "id": 883,
+    "artist": "Rose Royce",
+    "title": "Wishin On A Star",
+    "genre": "70's Music"
+  },
+  {
+    "id": 884,
+    "artist": "Roselli, Jimmy",
+    "title": "Angelina",
+    "genre": "Italian"
+  },
+  {
+    "id": 885,
+    "artist": "Roth, David Lee",
+    "title": "Gigalo",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 886,
+    "artist": "Royal, Billy Joe",
+    "title": "Cherry Hill Park",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 887,
+    "artist": "Rucker, Darius",
+    "title": "Alright",
+    "genre": "Country"
+  },
+  {
+    "id": 888,
+    "artist": "Rucker, Darius",
+    "title": "Radio",
+    "genre": "Country"
+  },
+  {
+    "id": 889,
+    "artist": "Rucker, Darius",
+    "title": "Wagon Wheel",
+    "genre": "Country"
+  },
+  {
+    "id": 890,
+    "artist": "Ruffin, David",
+    "title": "Gonna Walk Away From Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 891,
+    "artist": "Ruffin, Jimmy",
+    "title": "Brokenhearted (What Becomes Of The)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 892,
+    "artist": "Rundgren, Todd",
+    "title": "Hello It's Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 893,
+    "artist": "Rundgren, Todd",
+    "title": "I Saw The Light",
+    "genre": "70's Music"
+  },
+  {
+    "id": 894,
+    "artist": "Rundgren, Todd",
+    "title": "We Gotta Get You A Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 895,
+    "artist": "Rydell, Bobby",
+    "title": "Volare",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 896,
+    "artist": "Sade",
+    "title": "Smooth Operator",
+    "genre": "70's Music"
+  },
+  {
+    "id": 897,
+    "artist": "Sakamoto, Kyu",
+    "title": "Sukiyaki",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 898,
+    "artist": "Sam & Dave",
+    "title": "Hold On I'm Comin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 899,
+    "artist": "Sam & Dave",
+    "title": "Soul Man",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 900,
+    "artist": "Sam The Sham & The Pharoes",
+    "title": "Wooly Bully",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 901,
+    "artist": "Sanford-Townsend Band, The",
+    "title": "Smoke From A Distant Fire",
+    "genre": "70's Music"
+  },
+  {
+    "id": 902,
+    "artist": "Santa Esmeralda",
+    "title": "Don't Let Me Be Misunderstood",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 903,
+    "artist": "Santana",
+    "title": "Black Magic Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 904,
+    "artist": "Santana",
+    "title": "Evil Ways",
+    "genre": "70's Music"
+  },
+  {
+    "id": 905,
+    "artist": "Scott, Joey",
+    "title": "Hey Girl",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 906,
+    "artist": "Seals & Crofts",
+    "title": "Summer Breeze",
+    "genre": "70's Music"
+  },
+  {
+    "id": 907,
+    "artist": "Searchers, The",
+    "title": "Needles & Pins",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 908,
+    "artist": "Searchers, The",
+    "title": "Walk In The Room (Every Time That You)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 909,
+    "artist": "Sedaka, Neil",
+    "title": "Breakin Up Is Heard To Do",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 910,
+    "artist": "Sedaka, Neil",
+    "title": "Breaking Up Is Hard To Do (Ballad)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 911,
+    "artist": "Sedaka, Neil",
+    "title": "Calender Girl",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 912,
+    "artist": "Sedaka, Neil",
+    "title": "Laughter In The Rain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 913,
+    "artist": "Sedaka, Neil",
+    "title": "Neil Sedaka Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "Breaking Up Is Hard To Do",
+      "Calendar Girl"
+    ]
+  },
+  {
+    "id": 914,
+    "artist": "Sedaka, Neil",
+    "title": "The Diary",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 915,
+    "artist": "Seekers, The",
+    "title": "Georgy Girl",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 916,
+    "artist": "Segar, Bob",
+    "title": "Against The Wind",
+    "genre": "70's Music"
+  },
+  {
+    "id": 917,
+    "artist": "Segar, Bob",
+    "title": "Old Time Rock & Roll (Still Like That)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 918,
+    "artist": "Segar, Bob",
+    "title": "Still The Same",
+    "genre": "70's Music"
+  },
+  {
+    "id": 919,
+    "artist": "Seger, Bob",
+    "title": "Turn The Page",
+    "genre": "70's Music"
+  },
+  {
+    "id": 920,
+    "artist": "Seventh Avenue",
+    "title": "Miami Heatwave",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 921,
+    "artist": "Sha-Na-Na",
+    "title": "Those Magic Changes",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 922,
+    "artist": "Shakin Stevens",
+    "title": "Cry Just A Little Bit",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 923,
+    "artist": "Shanice",
+    "title": "I Love Your Smile",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 924,
+    "artist": "Shelton, Blake",
+    "title": "All About Tonight",
+    "genre": "Country"
+  },
+  {
+    "id": 925,
+    "artist": "Shelton, Blake",
+    "title": "Honey Bee",
+    "genre": "Country"
+  },
+  {
+    "id": 926,
+    "artist": "Shepard, Vonda",
+    "title": "For Once In My Life (Ballad)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 927,
+    "artist": "Shiek",
+    "title": "Good Times",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 928,
+    "artist": "Shirelles, The",
+    "title": "Baby Its You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 929,
+    "artist": "Shirelles, The",
+    "title": "Will You Still Love Me Tomorrow",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 930,
+    "artist": "Shocking Blue",
+    "title": "I'm Your Venus",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 931,
+    "artist": "Simon & Garfunkel",
+    "title": "Like A Bridge Over Troubled Water",
+    "genre": "70's Music"
+  },
+  {
+    "id": 932,
+    "artist": "Simon & Garfunkel",
+    "title": "Mrs. Robinson",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 933,
+    "artist": "Simon & Garfunkle",
+    "title": "I Am A Rock",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 934,
+    "artist": "Simon, Carly",
+    "title": "Anticipation",
+    "genre": "70's Music"
+  },
+  {
+    "id": 935,
+    "artist": "Simon, Carly",
+    "title": "You're So Vain",
+    "genre": "70's Music"
+  },
+  {
+    "id": 936,
+    "artist": "Simon, Paul",
+    "title": "Mother & Child Reunion",
+    "genre": "70's Music"
+  },
+  {
+    "id": 937,
+    "artist": "Simply Red",
+    "title": "Holding Back The Years",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 938,
+    "artist": "Sinatra, Frank",
+    "title": "All The Way",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 939,
+    "artist": "Sinatra, Frank",
+    "title": "Just The Way You Look Tonight",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 940,
+    "artist": "Sinatra, Frank",
+    "title": "My Way",
+    "genre": "70's Music"
+  },
+  {
+    "id": 941,
+    "artist": "Sinatra, Frank",
+    "title": "Summer Wind",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 942,
+    "artist": "Sinatra, Frank",
+    "title": "That’s Life",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 943,
+    "artist": "Sinatra, Frank",
+    "title": "Time After Time",
+    "genre": "Ballads"
+  },
+  {
+    "id": 944,
+    "artist": "Sinatra, Frank & Nancy",
+    "title": "Somethin' Stupid",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 945,
+    "artist": "Sinatra, Nancy",
+    "title": "These Boots Are Made For Walkin'",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 946,
+    "artist": "Sister Sledge",
+    "title": "We Are Family",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 947,
+    "artist": "Skylark",
+    "title": "Wildflower",
+    "genre": "70's Music"
+  },
+  {
+    "id": 948,
+    "artist": "Skyliners, The",
+    "title": "Have You Heard",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 949,
+    "artist": "Skyliners, The",
+    "title": "Since I Don't Have You",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 950,
+    "artist": "Skynyrd, Lynyrd",
+    "title": "Sweet Home Alabama",
+    "genre": "70's Music"
+  },
+  {
+    "id": 951,
+    "artist": "Sledge, Percy",
+    "title": "When A Man Loves A Woman",
+    "genre": "Ballads"
+  },
+  {
+    "id": 952,
+    "artist": "Sly & The Family Stone",
+    "title": "Everyday People",
+    "genre": "70's Music"
+  },
+  {
+    "id": 953,
+    "artist": "Sly & The Family Stone",
+    "title": "If You Want Me To Stay",
+    "genre": "70's Music"
+  },
+  {
+    "id": 954,
+    "artist": "Sly & The Family Stone",
+    "title": "Thank You (Fa Lettin' Me Be Myself)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 955,
+    "artist": "Smith, O.C.",
+    "title": "Little Green Apples (God Didn't Make)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 956,
+    "artist": "Smokie",
+    "title": "You're Still The One",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 957,
+    "artist": "Sonny & Cher",
+    "title": "All I Really Wanna Do",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 958,
+    "artist": "Sonny & Cher",
+    "title": "Baby Don't Go",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 959,
+    "artist": "Sonny & Cher",
+    "title": "Beat Goes On",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 960,
+    "artist": "Sonny & Cher",
+    "title": "I Got You Babe",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 961,
+    "artist": "Soul Survivors",
+    "title": "Xpressway To Your Heart",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 962,
+    "artist": "South, Joe",
+    "title": "Walk A Mile In My Shoes",
+    "genre": "70's Music"
+  },
+  {
+    "id": 963,
+    "artist": "Spandau Ballet",
+    "title": "True",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 964,
+    "artist": "Spencer Davis Group",
+    "title": "Gimmie Gimmie Some Lovin",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 965,
+    "artist": "Spinners, The",
+    "title": "Could It Be I'm Fallin In Luv",
+    "genre": "70's Music"
+  },
+  {
+    "id": 966,
+    "artist": "Spinners, The",
+    "title": "Cupid / Loved You For A Long Time",
+    "genre": "Disco Music",
+    "medley": [
+      "Cupid",
+      "Loved You For A Long Time"
+    ]
+  },
+  {
+    "id": 967,
+    "artist": "Spinners, The",
+    "title": "Games People Play",
+    "genre": "70's Music"
+  },
+  {
+    "id": 968,
+    "artist": "Spinners, The",
+    "title": "I’ll Be Around",
+    "genre": "70's Music"
+  },
+  {
+    "id": 969,
+    "artist": "Spinners, The",
+    "title": "It's A Shame",
+    "genre": "70's Music"
+  },
+  {
+    "id": 970,
+    "artist": "Spinners, The",
+    "title": "Then Came You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 971,
+    "artist": "Spinners, The",
+    "title": "Working My Way Back To You / Forgive Me Girl",
+    "genre": "Disco Music",
+    "medley": [
+      "Working My Way Back To You",
+      "Forgive Me Girl"
+    ]
+  },
+  {
+    "id": 972,
+    "artist": "Spiral Staircase, The",
+    "title": "More Today Than Yesterday (I Love You)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 973,
+    "artist": "Springfield, Dusty",
+    "title": "I Only Wanna Be With You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 974,
+    "artist": "Springfield, Dusty",
+    "title": "Son Of A PreacherMan",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 975,
+    "artist": "Springsteen, Bruce",
+    "title": "Dancing In The Dark",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 976,
+    "artist": "Springsteen, Bruce",
+    "title": "Glory Days",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 977,
+    "artist": "Springsteen, Bruce",
+    "title": "Hungry Heart (Evry'body's Got A)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 978,
+    "artist": "Springsteen, Bruce",
+    "title": "I'm Goin' Down",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 979,
+    "artist": "Springsteen, Bruce",
+    "title": "Pink Caddilac",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 980,
+    "artist": "Stampeders, The",
+    "title": "Sweet City Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 981,
+    "artist": "Standells, The",
+    "title": "Dirty Water",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 982,
+    "artist": "Stansfield, Lisa",
+    "title": "Been Around The World",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 983,
+    "artist": "Stapleton, Chris",
+    "title": "Tennessee Whiskey",
+    "genre": "Country"
+  },
+  {
+    "id": 984,
+    "artist": "Stapleton, Chris",
+    "title": "You Should Probably Leave",
+    "genre": "Country"
+  },
+  {
+    "id": 985,
+    "artist": "Starbuck",
+    "title": "MoonLight Feels Right",
+    "genre": "70's Music"
+  },
+  {
+    "id": 986,
+    "artist": "Starr, Edwin",
+    "title": "Twenty Five Miles",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 987,
+    "artist": "Starr, Ringo",
+    "title": "It Don't Come Easy",
+    "genre": "70's Music"
+  },
+  {
+    "id": 988,
+    "artist": "Statler Brothers",
+    "title": "More Than A Name On The Wall",
+    "genre": "Patriotic"
+  },
+  {
+    "id": 989,
+    "artist": "Staton, Candi",
+    "title": "Young Hearts Run Free",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 990,
+    "artist": "Stealers Wheel",
+    "title": "Stuck In the Middle",
+    "genre": "70's Music"
+  },
+  {
+    "id": 991,
+    "artist": "Steam",
+    "title": "NaNaNaNa Kiss Her Goodbye",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 992,
+    "artist": "Steely Dan",
+    "title": "Do It Again (Back Jack)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 993,
+    "artist": "Steppenwolf",
+    "title": "Magic Carpet Ride",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 994,
+    "artist": "Steppinwolf",
+    "title": "Born To Be Wild",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 995,
+    "artist": "Steve Miller Band, The",
+    "title": "Rockin' Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 996,
+    "artist": "Stevens, Cat",
+    "title": "Wild World",
+    "genre": "70's Music"
+  },
+  {
+    "id": 997,
+    "artist": "Stevens, Ray",
+    "title": "Everything Is Beautiful",
+    "genre": "70's Music"
+  },
+  {
+    "id": 998,
+    "artist": "Stewart, Billy",
+    "title": "Summertime",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 999,
+    "artist": "Stewart, Rod",
+    "title": "First Cut Is The Deepest",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1000,
+    "artist": "Stewart, Rod",
+    "title": "Maggie May",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1001,
+    "artist": "Stewart, Rod",
+    "title": "Some Guys Have All The Luck",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1002,
+    "artist": "Stewart, Rod",
+    "title": "Stay With Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1003,
+    "artist": "Stewart, Rod",
+    "title": "This Old Heart Of Mine",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1004,
+    "artist": "Stewart, Rod",
+    "title": "Tonight's The Night",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1005,
+    "artist": "Stewart, Rod",
+    "title": "You Wear It Well",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1006,
+    "artist": "Stingish",
+    "title": "Every Breath You Take (Jazz)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1007,
+    "artist": "Stoddard, Rubin",
+    "title": "SuperStar",
+    "genre": "Ballads"
+  },
+  {
+    "id": 1008,
+    "artist": "Stories",
+    "title": "Brother Louie",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1009,
+    "artist": "Strait George",
+    "title": "Here For A Good Time",
+    "genre": "Country"
+  },
+  {
+    "id": 1010,
+    "artist": "Strawberry Alarm Clock, The",
+    "title": "Incense & Peppermints",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1011,
+    "artist": "Strong, Barrot",
+    "title": "Money",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1012,
+    "artist": "Stuart, Jermaine",
+    "title": "Clothes Off (We Don't Have To Take Our)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1013,
+    "artist": "Stuart, Jermaine",
+    "title": "We Don't Have To Take Our Clothes Off",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1014,
+    "artist": "Stylistics, The",
+    "title": "You Are Everything",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1015,
+    "artist": "Stylistics, The",
+    "title": "You Make Me Feel Brand New",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1016,
+    "artist": "Sugar Ray",
+    "title": "Someday",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1017,
+    "artist": "Sugarloaf",
+    "title": "Green Eyed Lady",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1018,
+    "artist": "Summer, Donna",
+    "title": "Bad Girls",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1019,
+    "artist": "Summer, Donna",
+    "title": "On The Radio",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1020,
+    "artist": "Summer, Donna",
+    "title": "She Works Hard For The Money",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1021,
+    "artist": "Supremes, The",
+    "title": "Baby Love",
+    "genre": "Motown"
+  },
+  {
+    "id": 1022,
+    "artist": "Supremes, The",
+    "title": "Keep Me Hangin On",
+    "genre": "Motown"
+  },
+  {
+    "id": 1023,
+    "artist": "Supremes, The",
+    "title": "Love Child",
+    "genre": "Motown"
+  },
+  {
+    "id": 1024,
+    "artist": "Supremes, The",
+    "title": "My World Is Empty Without You",
+    "genre": "Motown"
+  },
+  {
+    "id": 1025,
+    "artist": "Supremes, The",
+    "title": "Stop In The Name Of Love",
+    "genre": "Motown"
+  },
+  {
+    "id": 1026,
+    "artist": "Supremes, The",
+    "title": "Where Did Our Love Go",
+    "genre": "Motown"
+  },
+  {
+    "id": 1027,
+    "artist": "Supremes, The",
+    "title": "You Can't Hurry Love",
+    "genre": "Motown"
+  },
+  {
+    "id": 1028,
+    "artist": "Sweet (The)",
+    "title": "Little Willie",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1029,
+    "artist": "Swindell, Cole",
+    "title": "Ain't Worth The Whiskey",
+    "genre": "Country"
+  },
+  {
+    "id": 1030,
+    "artist": "Swingin' Medallions",
+    "title": "Double Shot (Of My Baby's Love)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1031,
+    "artist": "T. Rex",
+    "title": "Get It On",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1032,
+    "artist": "Taste Of Honey",
+    "title": "Boogie Oogie Oogie",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1033,
+    "artist": "Tavares",
+    "title": "Don't Take Away The Music",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1034,
+    "artist": "Tavares",
+    "title": "Heaven Must Be Missin' An Angel",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1035,
+    "artist": "Tavares",
+    "title": "It Only Takes A Minute",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1036,
+    "artist": "Tavares",
+    "title": "More Than A Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1037,
+    "artist": "Taylor, James",
+    "title": "How Sweet It Is (To Be loved By You)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1038,
+    "artist": "Taylor, James",
+    "title": "Mexico",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1039,
+    "artist": "Taylor, James",
+    "title": "Up On The Roof",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1040,
+    "artist": "Taylor, James",
+    "title": "You've Got A Friend (Contemporary Arr.)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1041,
+    "artist": "Taylor, James",
+    "title": "Your Smilin' Face (Whenever I see)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1042,
+    "artist": "Tears For Fears",
+    "title": "Everybody Wants To Rule",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1043,
+    "artist": "Tee Set, The",
+    "title": "Ma Bella Mia",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1044,
+    "artist": "Temptations, The",
+    "title": "Just My Imagination",
+    "genre": "Motown"
+  },
+  {
+    "id": 1045,
+    "artist": "Temptations, The",
+    "title": "My Girl",
+    "genre": "Motown"
+  },
+  {
+    "id": 1046,
+    "artist": "Temptations, The",
+    "title": "The Girl's Alright With Me",
+    "genre": "Motown"
+  },
+  {
+    "id": 1047,
+    "artist": "Temptations, The",
+    "title": "Treat Her Like A Lady",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1048,
+    "artist": "Thomas, B.J.",
+    "title": "B.J. Thomas Medley",
+    "genre": "70's Music",
+    "medley": [
+      "Hooked On A Feelin'",
+      "I Just Can't Help Believin'"
+    ]
+  },
+  {
+    "id": 1049,
+    "artist": "Thomas, B.J.",
+    "title": "Eyes Of A New York Woman",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1050,
+    "artist": "Thomas, B.J.",
+    "title": "Hooked On A Feelin'",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1051,
+    "artist": "Thomas, B.J.",
+    "title": "Raindrops Keep Fallin On My Head",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1052,
+    "artist": "Thorogood, George",
+    "title": "Bad To The Bone",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1053,
+    "artist": "Three Dog Night",
+    "title": "Easy To Be Hard",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1054,
+    "artist": "Three Dog Night",
+    "title": "Joy To The World (Jeremiah Was A Bullfrog)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1055,
+    "artist": "Three Dog Night",
+    "title": "Mama Told Me Not To Come",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1056,
+    "artist": "Tim McGraw / Glen Campbell",
+    "title": "Tim McGraw / Glen Campbell Medley",
+    "genre": "Country",
+    "medley": [
+      "My Next 30 Years",
+      "Try A Lil' Kindness"
+    ]
+  },
+  {
+    "id": 1057,
+    "artist": "Tokens, The",
+    "title": "The Lion Sleeps Tonight",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1058,
+    "artist": "Tommy James & The Shondells",
+    "title": "Draggin A Line",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1059,
+    "artist": "Tommy James & The Shondells",
+    "title": "I Think We're Alone Now",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1060,
+    "artist": "Tommy James & The Shondells",
+    "title": "Mony Mony",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1061,
+    "artist": "Toto",
+    "title": "Rosanna",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1062,
+    "artist": "Tower Of Power",
+    "title": "So Very Hard To Go",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1063,
+    "artist": "Tower Of Power",
+    "title": "This Time It's Real",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1064,
+    "artist": "Trammps, The",
+    "title": "Disco Inferno",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1065,
+    "artist": "Traveling Wilbury's, The",
+    "title": "You Got It",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1066,
+    "artist": "Travis, Randy",
+    "title": "Forever & Ever Amen",
+    "genre": "Country"
+  },
+  {
+    "id": 1067,
+    "artist": "Travolta, John & Olivia Newton John",
+    "title": "You're The One That I Want",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1068,
+    "artist": "Tremeloes, The",
+    "title": "Here Comes My Baby",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1069,
+    "artist": "Tritt, Travis",
+    "title": "Only You",
+    "genre": "Country"
+  },
+  {
+    "id": 1070,
+    "artist": "Troggs, The",
+    "title": "Wild Thing",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1071,
+    "artist": "Troy, Doris",
+    "title": "Just One Look",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1072,
+    "artist": "Turner, Josh",
+    "title": "Your Man",
+    "genre": "Country"
+  },
+  {
+    "id": 1073,
+    "artist": "Turner, Tina",
+    "title": "Simply The Best",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1074,
+    "artist": "Turtles, The",
+    "title": "Elenore",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1075,
+    "artist": "Turtles, The",
+    "title": "Happy Together",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1076,
+    "artist": "Turtles, The",
+    "title": "She'd Rather Be With Me (You Know)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1077,
+    "artist": "Turtles, The",
+    "title": "You Baby",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1078,
+    "artist": "Tutone, Tommy",
+    "title": "867-5309 Jenny",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1079,
+    "artist": "Twain, Shania",
+    "title": "You're Still The One",
+    "genre": "Ballads"
+  },
+  {
+    "id": 1080,
+    "artist": "Tyler, Bonnie",
+    "title": "It’s a HeartAche",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1081,
+    "artist": "U2",
+    "title": "One",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1082,
+    "artist": "Undisputed Truth, The",
+    "title": "Smiling Faces",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1083,
+    "artist": "Vale, Jerry",
+    "title": "Forgive Me (My Love)",
+    "genre": "Italian"
+  },
+  {
+    "id": 1084,
+    "artist": "Valens, Ritchie",
+    "title": "La Bamba",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 1085,
+    "artist": "Valens, Ritchie",
+    "title": "Oh Donna",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 1086,
+    "artist": "Valli, Frankie & The 4 Seasons",
+    "title": "Can’t Take My Eyes Off Of You",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1087,
+    "artist": "Valli, Frankie & The 4 Seasons",
+    "title": "December 1963 (Oh What A Night)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1088,
+    "artist": "Valli, Frankie & The 4 Seasons",
+    "title": "Frankie Valli Medley",
+    "genre": "60's Songs",
+    "medley": [
+      "Grease",
+      "Oh What A Night",
+      "Workin My Way Back To You",
+      "Can’t Take My Eyes Off Of You"
+    ]
+  },
+  {
+    "id": 1089,
+    "artist": "Valli, Frankie & The 4 Seasons",
+    "title": "Marianne (Come On)",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1090,
+    "artist": "Valli, Frankie & The 4 Seasons",
+    "title": "My Eyes Adored You",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1091,
+    "artist": "Valli, Frankie & The 4 Seasons",
+    "title": "Swearin To God",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1092,
+    "artist": "Valli, Frankie & The 4 Seasons",
+    "title": "Walk Like A Man",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1093,
+    "artist": "Van Halen",
+    "title": "Jump",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1094,
+    "artist": "Vannelli, Gino",
+    "title": "I Just Wanna Stop",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1095,
+    "artist": "Various",
+    "title": "A Day In The Life Of A Fool",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1096,
+    "artist": "Various",
+    "title": "Ain't No Sunshine When She's Gone",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1097,
+    "artist": "Various",
+    "title": "All I Want For Xmas Is You",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1098,
+    "artist": "Various",
+    "title": "Arriverderci Roma",
+    "genre": "Italian"
+  },
+  {
+    "id": 1099,
+    "artist": "Various",
+    "title": "Autumn Leaves (Bossa Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1100,
+    "artist": "Various",
+    "title": "Beat It (Bossa Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1101,
+    "artist": "Various",
+    "title": "Besame Mucho",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1102,
+    "artist": "Various",
+    "title": "Beyond The Sea (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1103,
+    "artist": "Various",
+    "title": "BlackBird (Bye Bye)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1104,
+    "artist": "Various",
+    "title": "Blue Xmas",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1105,
+    "artist": "Various",
+    "title": "Breezin",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1106,
+    "artist": "Various",
+    "title": "Buona Sera, Buona Sera",
+    "genre": "Italian"
+  },
+  {
+    "id": 1107,
+    "artist": "Various",
+    "title": "Can't Take My Eyes Short Off Of You (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1108,
+    "artist": "Various",
+    "title": "Close To You (Bossa Arr.)Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1109,
+    "artist": "Various",
+    "title": "Danny Boy",
+    "genre": "Irish"
+  },
+  {
+    "id": 1110,
+    "artist": "Various",
+    "title": "Don't Let Me Be Lonely (Groove Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1111,
+    "artist": "Various",
+    "title": "Drunken Sailor",
+    "genre": "Irish"
+  },
+  {
+    "id": 1112,
+    "artist": "Various",
+    "title": "Every Breath You Take (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1113,
+    "artist": "Various",
+    "title": "Feliz Navidad",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1114,
+    "artist": "Various",
+    "title": "Femmina",
+    "genre": "Italian"
+  },
+  {
+    "id": 1115,
+    "artist": "Various",
+    "title": "Forgive Me (My Love)",
+    "genre": "Italian"
+  },
+  {
+    "id": 1116,
+    "artist": "Various",
+    "title": "Happy Together (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1117,
+    "artist": "Various",
+    "title": "Have Yourself A Merry Lil' Xmas",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1118,
+    "artist": "Various",
+    "title": "Holly Jolly Xmas",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1119,
+    "artist": "Various",
+    "title": "Hot Stuff (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1120,
+    "artist": "Various",
+    "title": "I Just Called To Say I Love You",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1121,
+    "artist": "Various",
+    "title": "I Only Have Eyes For You (Groove Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1122,
+    "artist": "Various",
+    "title": "I Wanna Be Around",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1123,
+    "artist": "Various",
+    "title": "I'll Be Home For Xmas",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1124,
+    "artist": "Various",
+    "title": "I'll Never Fall In Love Again",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1125,
+    "artist": "Various",
+    "title": "If I Could Write A Book",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1126,
+    "artist": "Various",
+    "title": "In The Game (Groove Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1127,
+    "artist": "Various",
+    "title": "Irish Eyes",
+    "genre": "Irish"
+  },
+  {
+    "id": 1128,
+    "artist": "Various",
+    "title": "It's Too Late",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1129,
+    "artist": "Various",
+    "title": "Jingle Bell Rock",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1130,
+    "artist": "Various",
+    "title": "Just The Two Of Us",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1131,
+    "artist": "Various",
+    "title": "Just The Way U Are",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1132,
+    "artist": "Various",
+    "title": "Last Xmas",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1133,
+    "artist": "Various",
+    "title": "Let It Snow",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1134,
+    "artist": "Various",
+    "title": "Light My Fire (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1135,
+    "artist": "Various",
+    "title": "Louie Prima Medley",
+    "genre": "Italian",
+    "medley": [
+      "Zooma Zooma",
+      "Che La Luna",
+      "Angelina"
+    ]
+  },
+  {
+    "id": 1136,
+    "artist": "Various",
+    "title": "Mambo Italiano",
+    "genre": "Italian"
+  },
+  {
+    "id": 1137,
+    "artist": "Various",
+    "title": "Marshmallow World",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1138,
+    "artist": "Various",
+    "title": "Masquerade (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1139,
+    "artist": "Various",
+    "title": "MoonDance",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1140,
+    "artist": "Various",
+    "title": "Most Wonderful Time Of The Year",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1141,
+    "artist": "Various",
+    "title": "My Favorite Things",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1142,
+    "artist": "Various",
+    "title": "Non Dimenticar",
+    "genre": "Italian"
+  },
+  {
+    "id": 1143,
+    "artist": "Various",
+    "title": "O Sole Mio",
+    "genre": "Italian"
+  },
+  {
+    "id": 1144,
+    "artist": "Various",
+    "title": "Oh Marie (Wey)",
+    "genre": "Italian"
+  },
+  {
+    "id": 1145,
+    "artist": "Various",
+    "title": "On An Evening In Roma",
+    "genre": "Italian"
+  },
+  {
+    "id": 1146,
+    "artist": "Various",
+    "title": "Please Come Home For Xmas",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1147,
+    "artist": "Various",
+    "title": "Quando Quando",
+    "genre": "Italian"
+  },
+  {
+    "id": 1148,
+    "artist": "Various",
+    "title": "Return To Me",
+    "genre": "Italian"
+  },
+  {
+    "id": 1149,
+    "artist": "Various",
+    "title": "Rockin Around The Xmas Tree",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1150,
+    "artist": "Various",
+    "title": "Roselli, Jimmy",
+    "genre": "Italian",
+    "medley": [
+      "Angelina"
+    ]
+  },
+  {
+    "id": 1151,
+    "artist": "Various",
+    "title": "Route 66",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1152,
+    "artist": "Various",
+    "title": "Rudolph The Red Nose Reindeer",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1153,
+    "artist": "Various",
+    "title": "Same Old Shillelagh",
+    "genre": "Irish"
+  },
+  {
+    "id": 1154,
+    "artist": "Various",
+    "title": "San Francisco (I Left My Heart In)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1155,
+    "artist": "Various",
+    "title": "Silver Bells",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1156,
+    "artist": "Various",
+    "title": "Sleigh Ride Together With You",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1157,
+    "artist": "Various",
+    "title": "Smooth Operator",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1158,
+    "artist": "Various",
+    "title": "Somethin Stupid",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1159,
+    "artist": "Various",
+    "title": "Something (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1160,
+    "artist": "Various",
+    "title": "Soulful Strut(Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1161,
+    "artist": "Various",
+    "title": "Strangers In The Night (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1162,
+    "artist": "Various",
+    "title": "Summer Wind (Trio Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1163,
+    "artist": "Various",
+    "title": "Sunshine Of My Life",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1164,
+    "artist": "Various",
+    "title": "The Good Life",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1165,
+    "artist": "Various",
+    "title": "The Unicorn Song",
+    "genre": "Irish"
+  },
+  {
+    "id": 1166,
+    "artist": "Various",
+    "title": "The Xmas Song (Chestnuts)",
+    "genre": "Xmas/Holiday"
+  },
+  {
+    "id": 1167,
+    "artist": "Various",
+    "title": "Ticket To Ride (Jazz Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1168,
+    "artist": "Various",
+    "title": "Time After Time",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1169,
+    "artist": "Various",
+    "title": "Venus",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1170,
+    "artist": "Various",
+    "title": "Volare",
+    "genre": "Italian"
+  },
+  {
+    "id": 1171,
+    "artist": "Various",
+    "title": "Volare",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1172,
+    "artist": "Various",
+    "title": "Walk On By (Groove Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1173,
+    "artist": "Various",
+    "title": "Wasn't That A Party",
+    "genre": "Irish"
+  },
+  {
+    "id": 1174,
+    "artist": "Various",
+    "title": "Way You Look Tonight (The)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1175,
+    "artist": "Various",
+    "title": "We're In This Love Together",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1176,
+    "artist": "Various",
+    "title": "What Kind Of Fool Am I (Contempory Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1177,
+    "artist": "Various",
+    "title": "Where Is The Love",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1178,
+    "artist": "Various",
+    "title": "Will You Still Love Me Tomorrow (Easy Arr.)",
+    "genre": "Cocktail/Bossa"
+  },
+  {
+    "id": 1179,
+    "artist": "Various Artists",
+    "title": "As Time Goes By",
+    "genre": "Ballads"
+  },
+  {
+    "id": 1180,
+    "artist": "Various Artists",
+    "title": "Claudette",
+    "genre": "50's Songs"
+  },
+  {
+    "id": 1181,
+    "artist": "Various Artists",
+    "title": "Dont Let Me Be MisUnderstood",
+    "genre": "Blues"
+  },
+  {
+    "id": 1182,
+    "artist": "Various Artists",
+    "title": "Feelings (Groove Version)",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1183,
+    "artist": "Various Artists",
+    "title": "Hey Good Lookin'",
+    "genre": "Country"
+  },
+  {
+    "id": 1184,
+    "artist": "Various Artists",
+    "title": "Hi Heel Sneakers",
+    "genre": "Blues"
+  },
+  {
+    "id": 1185,
+    "artist": "Various Artists",
+    "title": "Let The Good Times Roll",
+    "genre": "Blues"
+  },
+  {
+    "id": 1186,
+    "artist": "Various Artists",
+    "title": "Make The World Go Away",
+    "genre": "Country"
+  },
+  {
+    "id": 1187,
+    "artist": "Various Artists",
+    "title": "Oldies Medley",
+    "genre": "50's Songs",
+    "medley": [
+      "Blue Swede Shoes",
+      "Johnny B. Goode",
+      "Mean Woman Blues",
+      "Ready Teddy",
+      "Keep a Knockin",
+      "Whole Lotta Shakin"
+    ]
+  },
+  {
+    "id": 1188,
+    "artist": "Various Artists",
+    "title": "Over The Rainbow",
+    "genre": "Ballads"
+  },
+  {
+    "id": 1189,
+    "artist": "Various Artists",
+    "title": "Peter Gunn Theme",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1190,
+    "artist": "Various Artists",
+    "title": "Sealed With A Kiss",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1191,
+    "artist": "Various Artists",
+    "title": "Shook Me All Nite Long",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1192,
+    "artist": "Various Artists",
+    "title": "SteamRoller Blues",
+    "genre": "Blues"
+  },
+  {
+    "id": 1193,
+    "artist": "Various Artists",
+    "title": "The Impossible Dream",
+    "genre": "Ballads"
+  },
+  {
+    "id": 1194,
+    "artist": "Various Artists",
+    "title": "Walk On By",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1195,
+    "artist": "Various Artists",
+    "title": "Welcome To My World",
+    "genre": "Country"
+  },
+  {
+    "id": 1196,
+    "artist": "Vaughan, Stevie Ray",
+    "title": "Crossfire",
+    "genre": "Blues"
+  },
+  {
+    "id": 1197,
+    "artist": "Vaughan, Stevie Ray",
+    "title": "Let Me Luv You Baby",
+    "genre": "Blues"
+  },
+  {
+    "id": 1198,
+    "artist": "Vogues, The",
+    "title": "Five Oclock World",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1199,
+    "artist": "Walk The Moon",
+    "title": "Shut Up & Dance",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1200,
+    "artist": "Walker Brothers, The",
+    "title": "The Sun Ain't Gonna Shine Anymore",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1201,
+    "artist": "Warwick, Dion",
+    "title": "I'll Never Fall In Love Again",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1202,
+    "artist": "Welch, Lenny",
+    "title": "Since I Fell For you",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1203,
+    "artist": "Wham",
+    "title": "Careless Whisper",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1204,
+    "artist": "Wham",
+    "title": "Wake Me Up Before You Go Go",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1205,
+    "artist": "Whispers, The",
+    "title": "And The Beat Goes On",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1206,
+    "artist": "Whispers, The",
+    "title": "Rock Steady",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1207,
+    "artist": "White Plains",
+    "title": "My Baby Loves Love",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1208,
+    "artist": "White, Barry",
+    "title": "Can't Get Enough Of Your Love Babe",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1209,
+    "artist": "White, Barry",
+    "title": "My First, Last Everything",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1210,
+    "artist": "White, Barry",
+    "title": "Never Never Gonna Give You Up",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1211,
+    "artist": "White, Barry",
+    "title": "What Am I Gonna Do With You",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1212,
+    "artist": "WhiteSnake",
+    "title": "Here I Go Again",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1213,
+    "artist": "Who, The",
+    "title": "Teenage WasteLand",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1214,
+    "artist": "Wild Cherry",
+    "title": "Play That New Funky Music",
+    "genre": "Disco Music"
+  },
+  {
+    "id": 1215,
+    "artist": "Wilder, Matthew",
+    "title": "Break My Stride",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1216,
+    "artist": "Williams, Denise",
+    "title": "It's Gonna Take A Miracle",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1217,
+    "artist": "Williams, Pharrell",
+    "title": "Happy (Because I'm)",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1218,
+    "artist": "Wilson, Jackie",
+    "title": "Baby Work Out",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1219,
+    "artist": "Wilson, Jackie",
+    "title": "Higher & Higher",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1220,
+    "artist": "Winter, Edgar",
+    "title": "Free Ride",
+    "genre": "Classic Rock"
+  },
+  {
+    "id": 1221,
+    "artist": "Winwood, Stevie",
+    "title": "Roll With It",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1222,
+    "artist": "Withers, Bill",
+    "title": "Aint No Sunshine",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1223,
+    "artist": "Withers, Bill",
+    "title": "Just The 2 Of Us",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1224,
+    "artist": "Withers, Bill",
+    "title": "Lean On Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1225,
+    "artist": "Withers, Bill",
+    "title": "Use Me",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1226,
+    "artist": "Wonder, Stevie",
+    "title": "A Place In The Sun",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1227,
+    "artist": "Wonder, Stevie",
+    "title": "Golden Lady",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1228,
+    "artist": "Wonder, Stevie",
+    "title": "Higher Ground",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1229,
+    "artist": "Wonder, Stevie",
+    "title": "I Just Called To Say I Love You",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1230,
+    "artist": "Wonder, Stevie",
+    "title": "I Was Made To Love Her",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1231,
+    "artist": "Wonder, Stevie",
+    "title": "My Cheri Amour",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1232,
+    "artist": "Wonder, Stevie",
+    "title": "Part Time Lover",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1233,
+    "artist": "Wonder, Stevie",
+    "title": "Signed Sealed Delivered",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1234,
+    "artist": "Wonder, Stevie",
+    "title": "Sunshine Of My Life",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1235,
+    "artist": "Wonder, Stevie",
+    "title": "Superstition",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1236,
+    "artist": "Wonder, Stevie",
+    "title": "UpTight",
+    "genre": "Motown"
+  },
+  {
+    "id": 1237,
+    "artist": "Wonder, Stevie",
+    "title": "Yester-Me Yester-You Yester-Day",
+    "genre": "Motown"
+  },
+  {
+    "id": 1238,
+    "artist": "Wright, Charles",
+    "title": "Love Land",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1239,
+    "artist": "Wynette, Tammy",
+    "title": "Stand By Your Man",
+    "genre": "Country"
+  },
+  {
+    "id": 1240,
+    "artist": "Yes",
+    "title": "Roundabout",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1241,
+    "artist": "Young-Holt Unlimited",
+    "title": "Soulful Strut",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1242,
+    "artist": "Young, John Paul",
+    "title": "Love Is In The Air",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1243,
+    "artist": "Young, Neil",
+    "title": "Heart Of Gold",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1244,
+    "artist": "Young, Neil",
+    "title": "Old Man",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1245,
+    "artist": "Young, Neil",
+    "title": "Southern Man",
+    "genre": "70's Music"
+  },
+  {
+    "id": 1246,
+    "artist": "Youngbloods, The",
+    "title": "Get Together",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1247,
+    "artist": "Zac Brown Band",
+    "title": "Chicken Fried",
+    "genre": "Country"
+  },
+  {
+    "id": 1248,
+    "artist": "Zac Brown Band",
+    "title": "Loving You Easy",
+    "genre": "Country"
+  },
+  {
+    "id": 1249,
+    "artist": "Zombies",
+    "title": "She's Not There",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1250,
+    "artist": "Zombies",
+    "title": "Tell Her No",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1251,
+    "artist": "Zombies",
+    "title": "Time Of The Season",
+    "genre": "60's Songs"
+  },
+  {
+    "id": 1252,
+    "artist": "ZZ-Top",
+    "title": "Legs",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1253,
+    "artist": "ZZ-Top",
+    "title": "Sharp Dressed Man",
+    "genre": "80's/90's/& Up"
+  },
+  {
+    "id": 1254,
+    "artist": "ZZ-Top",
+    "title": "Tush",
+    "genre": "70's Music"
+  }
+]
