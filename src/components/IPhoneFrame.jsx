@@ -1,19 +1,18 @@
 import React from 'react'
-import { Wifi } from 'lucide-react'
 
-export default function IPhoneFrame({ children, activeTab, setActiveTab }) {
+export default function IPhoneFrame({ children, bottomNav }) {
   return (
-    <div className="relative w-full max-w-[400px] min-h-[820px] h-[844px] max-h-[94vh] rounded-[44px] border-[8px] border-slate-900 shadow-2xl overflow-hidden flex flex-col bg-[#FAF7F2] ring-1 ring-slate-800/80">
+    <div className="relative w-full max-w-[400px] min-h-[820px] h-[844px] max-h-[94vh] rounded-[46px] border-[8px] border-slate-900 shadow-2xl overflow-hidden flex flex-col bg-[#f1f5f9] ring-1 ring-slate-800/80">
       {/* Outer hardware buttons */}
       <div className="absolute -left-[10px] top-[110px] w-[3px] h-[26px] bg-slate-700 rounded-l-sm pointer-events-none" />
       <div className="absolute -left-[10px] top-[155px] w-[3px] h-[48px] bg-slate-700 rounded-l-sm pointer-events-none" />
       <div className="absolute -left-[10px] top-[215px] w-[3px] h-[48px] bg-slate-700 rounded-l-sm pointer-events-none" />
       <div className="absolute -right-[10px] top-[165px] w-[3px] h-[64px] bg-slate-700 rounded-r-sm pointer-events-none" />
 
-      {/* Screen Container */}
-      <div className="relative w-full h-full flex flex-col overflow-hidden bg-[#FAF7F2]">
+      {/* Screen Container (relative + overflow-hidden isolates all absolute elements inside the phone) */}
+      <div className="relative w-full h-full flex flex-col overflow-hidden bg-[#f1f5f9]">
         {/* iOS Status Bar */}
-        <div className="relative z-40 h-10 px-6 pt-2 flex items-center justify-between text-slate-900 select-none shrink-0 bg-[#FAF7F2]/95 backdrop-blur-xs">
+        <div className="relative z-40 h-10 px-6 pt-2 flex items-center justify-between text-slate-900 select-none shrink-0 bg-white border-b border-slate-100">
           {/* Time */}
           <span className="text-[13px] font-bold tracking-tight text-slate-900 pl-1">
             9:41
@@ -42,10 +41,13 @@ export default function IPhoneFrame({ children, activeTab, setActiveTab }) {
           </div>
         </div>
 
-        {/* Screen Children / Content */}
+        {/* Scrollable Screen Content */}
         <div className="relative flex-1 flex flex-col overflow-hidden">
           {children}
         </div>
+
+        {/* Floating Pill Navigation Bar (strictly contained inside the phone screen) */}
+        {bottomNav}
 
         {/* iOS Home Indicator Bar */}
         <div className="absolute bottom-1 left-0 right-0 z-40 pointer-events-none flex justify-center pb-0.5">

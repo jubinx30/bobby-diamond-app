@@ -108,12 +108,12 @@ export default function HomeView({ onNavigate, onSelectGenre }) {
                 onSelectGenre(cat.genreFilter)
                 onNavigate('songs')
               }}
-              className="text-left p-3 rounded-2xl bg-[#FAF7F2] border border-amber-200/80 hover:border-amber-400 hover:bg-amber-50/50 transition cursor-pointer flex flex-col justify-between group"
+              className="text-left p-3 rounded-2xl bg-[#f8fafc] border border-slate-200 hover:border-amber-400 hover:bg-white transition cursor-pointer flex flex-col justify-between group shadow-2xs"
             >
               <h4 className="font-bold text-xs text-slate-900 group-hover:text-amber-800 transition">
                 {cat.title}
               </h4>
-              <p className="text-[11px] text-slate-600 mt-1 font-medium leading-tight">
+              <p className="text-[11px] text-amber-800 mt-1 font-medium leading-tight">
                 {cat.artists}
               </p>
             </button>

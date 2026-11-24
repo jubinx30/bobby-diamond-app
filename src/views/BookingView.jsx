@@ -41,7 +41,7 @@ export default function BookingView() {
         {/* Telephone Block */}
         <a
           href="tel:5082854191"
-          className="flex items-center gap-3.5 p-3.5 rounded-2xl bg-[#FAF5EC] border border-amber-300 hover:border-amber-500 hover:bg-amber-100/50 transition cursor-pointer group"
+          className="flex items-center gap-3.5 p-3.5 rounded-2xl bg-[#f8fafc] border border-slate-200 hover:border-amber-400 hover:bg-amber-50/40 transition cursor-pointer group"
         >
           <div className="w-12 h-12 rounded-full bg-gradient-to-br from-amber-800 to-amber-950 text-white flex items-center justify-center shrink-0 shadow-xs group-hover:scale-105 transition-transform">
             <Phone className="w-5 h-5 fill-white" />
@@ -59,7 +59,7 @@ export default function BookingView() {
         {/* Direct Email Block */}
         <a
           href="mailto:bobby@bobbydiamond.com"
-          className="flex items-center gap-3.5 p-3.5 rounded-2xl bg-[#FAF5EC] border border-amber-300 hover:border-amber-500 hover:bg-amber-100/50 transition cursor-pointer group"
+          className="flex items-center gap-3.5 p-3.5 rounded-2xl bg-[#f8fafc] border border-slate-200 hover:border-amber-400 hover:bg-amber-50/40 transition cursor-pointer group"
         >
           <div className="w-12 h-12 rounded-full bg-gradient-to-br from-amber-800 to-amber-950 text-white flex items-center justify-center shrink-0 shadow-xs group-hover:scale-105 transition-transform">
             <Mail className="w-5 h-5" />
@@ -148,7 +148,7 @@ export default function BookingView() {
                 placeholder="e.g. Eleanor Vance / Boston Gala Committee"
                 value={formData.name}
                 onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                className="w-full px-3 py-2 rounded-xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium"
+                className="w-full px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:bg-white font-medium transition"
               />
             </div>
 
@@ -163,7 +163,7 @@ export default function BookingView() {
                   placeholder="508-555-0123"
                   value={formData.phone}
                   onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-                  className="w-full px-3 py-2 rounded-xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium"
+                  className="w-full px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:bg-white font-medium transition"
                 />
               </div>
 
@@ -176,7 +176,7 @@ export default function BookingView() {
                   placeholder="name@email.com"
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-                  className="w-full px-3 py-2 rounded-xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium"
+                  className="w-full px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:bg-white font-medium transition"
                 />
               </div>
             </div>
@@ -190,7 +190,7 @@ export default function BookingView() {
                   type="date"
                   value={formData.eventDate}
                   onChange={(e) => setFormData({ ...formData, eventDate: e.target.value })}
-                  className="w-full px-3 py-2 rounded-xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium"
+                  className="w-full px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:bg-white font-medium transition"
                 />
               </div>
 
@@ -201,7 +201,7 @@ export default function BookingView() {
                 <select
                   value={formData.eventType}
                   onChange={(e) => setFormData({ ...formData, eventType: e.target.value })}
-                  className="w-full px-3 py-2 rounded-xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium"
+                  className="w-full px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:bg-white font-medium transition"
                 >
                   <option>Theatres &amp; Major Concert Showrooms</option>
                   <option>Corporate Galas &amp; Conventions</option>
@@ -221,7 +221,7 @@ export default function BookingView() {
                 placeholder="e.g. Providence, RI or Boston, MA"
                 value={formData.venue}
                 onChange={(e) => setFormData({ ...formData, venue: e.target.value })}
-                className="w-full px-3 py-2 rounded-xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium"
+                className="w-full px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:bg-white font-medium transition"
               />
             </div>
 
@@ -234,7 +234,7 @@ export default function BookingView() {
                 placeholder="Describe your event, expected guest count, or favorite songs..."
                 value={formData.notes}
                 onChange={(e) => setFormData({ ...formData, notes: e.target.value })}
-                className="w-full px-3 py-2 rounded-xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium resize-none"
+                className="w-full px-3 py-2 rounded-xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 focus:bg-white font-medium resize-none transition"
               />
             </div>
 

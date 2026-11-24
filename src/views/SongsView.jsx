@@ -67,7 +67,7 @@ export default function SongsView({ onRequestSong, selectedGenre, setSelectedGen
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Search song title, artist, or genre..."
-              className="w-full pl-9 pr-3 py-2 text-xs rounded-2xl border border-amber-200 bg-[#FAF7F2] text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium placeholder:text-slate-400"
+              className="w-full pl-9 pr-3 py-2 text-xs rounded-2xl border border-slate-200 bg-slate-50 text-slate-900 focus:outline-none focus:ring-2 focus:ring-amber-500 font-medium placeholder:text-slate-400 focus:bg-white transition"
             />
           </div>
           <button

@@ -66,7 +66,7 @@ export default function SongRequestModal({ song, onClose, onBookingPrefill }) {
                   placeholder="e.g. Mary Sullivan"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
-                  className="w-full px-3 py-2 text-sm rounded-xl border border-amber-300 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-amber-50/30 text-slate-900"
+                  className="w-full px-3 py-2 text-sm rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-slate-50 focus:bg-white text-slate-900 transition"
                 />
               </div>
 
@@ -78,7 +78,7 @@ export default function SongRequestModal({ song, onClose, onBookingPrefill }) {
                   placeholder="e.g. 508-555-0199"
                   value={phone}
                   onChange={(e) => setPhone(e.target.value)}
-                  className="w-full px-3 py-2 text-sm rounded-xl border border-amber-300 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-amber-50/30 text-slate-900"
+                  className="w-full px-3 py-2 text-sm rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-slate-50 focus:bg-white text-slate-900 transition"
                 />
               </div>
 
@@ -89,7 +89,7 @@ export default function SongRequestModal({ song, onClose, onBookingPrefill }) {
                   placeholder="e.g. 50th Wedding Anniversary gala"
                   value={note}
                   onChange={(e) => setNote(e.target.value)}
-                  className="w-full px-3 py-2 text-sm rounded-xl border border-amber-300 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-amber-50/30 text-slate-900"
+                  className="w-full px-3 py-2 text-sm rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-slate-50 focus:bg-white text-slate-900 transition"
                 />
               </div>
             </div>

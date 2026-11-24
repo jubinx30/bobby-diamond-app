@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export default function HeaderBar() {
   return (
-    <header className="sticky top-0 z-30 bg-[#FAF7F2]/95 backdrop-blur-md px-4 py-2.5 border-b border-amber-200/70 flex items-center justify-between">
+    <header className="sticky top-0 z-30 bg-white px-4 py-2.5 border-b border-amber-200/80 flex items-center justify-between shadow-xs">
       <div className="flex items-center space-x-2.5">
         <div className="relative">
           <img
